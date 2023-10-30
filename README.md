@@ -1,4 +1,4 @@
-# Le Grand Tour: Matterhorn
+# Eurohouse Live Wallpaper Collection
 A premium quality, aesthetic wallpapers for every moment of your life.
 
 _"Elegance is the only beauty that never fades." - Audrey Hepburn_
@@ -6,7 +6,4 @@ _"Elegance is the only beauty that never fades." - Audrey Hepburn_
 ![Collage](https://github.com/eurohouse/mason/blob/main/mason.collage.png?raw=true)
 
 ## Background
-The wallpaper collection contains only high-quality, realistic 4K UHD images with warm color palette. This collection is being introduced with wallpapers from all around the world.
-
-## Composition
-The whole background collection is introduced with various photos of places from all around the world made in warm color palette.
+The wallpaper collection contains only high-quality, realistic 4K UHD images with warm color palette. This collection is being introduced with wallpapers from all around the world. The whole background collection is introduced with various photos of places from all around the world made in warm, bright, vivid color palette.

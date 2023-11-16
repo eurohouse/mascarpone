@@ -1,14 +1,41 @@
 {
     "000":
     {
-        "title": "European Spa Resort Delight"
+        "title": "European Spa Resort Delight",
+        "language":
+        {
+            "RU": "Кафе культура Европы",
+            "GR": "Ευρωπαϊκό Καφετέρια",
+            "UA": "Кафе культура Європи",
+            "CN": "欧洲咖啡馆文化",
+            "JP": "ヨーロッパのカフェ文化",
+            "KR": "유럽의 카페 문화"
+        }
     },
     "001":
     {
-        "title": "Leaving Neverland: The Aftermath"
+        "title": "Leaving Neverland: The Aftermath",
+        "language":
+        {
+            "RU": "Покидая Неверленд",
+            "UA": "Залишаючи Неверленд",
+            "GR": "Αποκάλυψη της Παιδοφιλίας",
+            "CN": "离开梦幻岛：后果",
+            "JP": "ネバーランドにさよならを",
+            "KR": "네버랜드를 떠나며: 여파"
+        }
     },
     "002":
     {
-        "title": "Bali Island Tropical Vacation"
+        "title": "Bali Island Tropical Vacation",
+        "language":
+        {
+            "RU": "Отдых на острове Бали",
+            "UA": "Відпочинок на острові Балі",
+            "GR": "Διακοπές στο νησί Μπαλί",
+            "JP": "バリ島で過ごす休日",
+            "CN": "巴厘岛的假期",
+            "KR": "발리 섬에서의 휴일"
+        }
     }
 }

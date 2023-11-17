@@ -4,5 +4,6 @@
     "weight": 57,
     "sizes": "89-69-89",
     "shoe_size": 7,
-    "foot_type": "Roman"
+    "foot_type": "Roman",
+    "country": "US"
 }

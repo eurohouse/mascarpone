@@ -1,4 +1,4 @@
-# Eurohouse Live Wallpaper Collection
+# Eurohouse Wallpaper Collection: Warm Palette
 A premium quality, aesthetic wallpapers for every moment of your life.
 
 _"Elegance is the only beauty that never fades." - Audrey Hepburn_

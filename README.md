@@ -11,4 +11,4 @@ The wallpaper collection contains only high-quality, realistic 4K UHD images wit
 ## Composition
 The first series in this collection consists predominantly of European wallpapers, with special focus on the first spa resort in history that is located in Belgium. The second series sets in the United States of America and partly Canada, with the main story hinges around two former Michael Jackson's fans who were his alleged child sexual abuse victims at the Neverland Ranch. The third one main setting is Bali, although there are also other locations, such as Taj Mahal, the Caribbean, Toscana and more. The fourth series is dedicated to the wildlife and farming activity. The only series in this collection and all wallpaper collections made by Eurohouse which is Christmas special, is the last series in this collection.
 
-> :wine_glass: :sparkles: :santa: :christmas_tree: **Merry Christmas and Happy New Year!**
+> :santa: :christmas_tree: :wine_glass: :sparkles: **Merry Christmas and Happy New Year!**

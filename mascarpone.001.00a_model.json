@@ -1,5 +1,8 @@
 {
     "name": "Lily Allen",
+    "height": 1.57,
+    "weight": 52,
+    "sizes": "92-64-89",
     "shoe_size": 6,
     "foot_type": "Roman",
     "country": "UK"

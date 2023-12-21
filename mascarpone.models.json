@@ -1,0 +1,66 @@
+{
+    "Parisian Girl":
+    {
+        "foot_type": "Roman",
+        "country": "FR"
+    },
+    "Beach Feet":
+    {
+        "foot_type": "Roman",
+        "country": "FR"
+    },
+    "Lily Allen":
+    {
+        "height": 1.57,
+        "weight": 52,
+        "sizes": "92-64-89",
+        "shoe_size": 6,
+        "foot_type": "Roman",
+        "country": "UK"
+    },
+    "Britney Spears":
+    {
+        "height": 1.63,
+        "weight": 57,
+        "sizes": "89-69-89",
+        "shoe_size": 7,
+        "foot_type": "Roman",
+        "country": "US"
+    },
+    "Claudine Auger":
+    {
+        "height": 1.73,
+        "weight": 61,
+        "sizes": "91-58-94",
+        "shoe_size": 8,
+        "foot_type": "Roman",
+        "country": "FR"
+    },
+    "Raffaella Fico":
+    {
+        "height": 1.73,
+        "weight": 58,
+        "sizes": "84-63-86",
+        "shoe_size": 9,
+        "foot_type": "Roman",
+        "country": "IT"
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66,
+        "weight": 52,
+        "sizes": "81-64-89",
+        "shoe_size": 8,
+        "foot_type": "Roman",
+        "country": "US"
+    },
+    "Tamara Ecclestone":
+    {
+        "height": 1.73,
+        "weight": 51,
+        "sizes": "87-61-86",
+        "shoe_size": 7.5,
+        "foot_type": "Roman",
+        "country": "IT"
+    }
+}

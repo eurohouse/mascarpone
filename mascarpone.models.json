@@ -1,14 +1,4 @@
 {
-    "Parisian Girl":
-    {
-        "foot_type": "Roman",
-        "country": "FR"
-    },
-    "Beach Feet":
-    {
-        "foot_type": "Roman",
-        "country": "FR"
-    },
     "Lily Allen":
     {
         "height": 1.57,
@@ -33,7 +23,7 @@
         "weight": 61,
         "sizes": "91-58-94",
         "shoe_size": 8,
-        "foot_type": "Roman",
+        "foot_type": "Greek",
         "country": "FR"
     },
     "Raffaella Fico":
@@ -61,6 +51,15 @@
         "sizes": "87-61-86",
         "shoe_size": 7.5,
         "foot_type": "Roman",
+        "country": "IT"
+    },
+    "Jennifer Love Hewitt":
+    {
+        "height": 1.57,
+        "weight": 56,
+        "sizes": "97-64-97",
+        "shoe_size": 6.5,
+        "foot_type": "Greek",
         "country": "IT"
     }
 }

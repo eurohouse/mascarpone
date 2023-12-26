@@ -7,6 +7,14 @@
         "insignia": "coffee",
         "memoir": "While coffee may have started in Ethiopia and quickly spread to the Middle East, hundreds of years later it has found its home in Europe. Needless to say, it has left its indelible mark on the culture of Europe. In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It is about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed. Many European coffee cultures, especially those of Western Europe (Spain, Portugal, France) are extremely similar. If we were to go in-depth in describing all of the intricacies of each European country's coffee culture, you'd be reading for hours. Today we will discuss the big players and influencers."
     },
+    "Château de Versailles":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "maison": "https://chateauversailles.fr",
+        "insignia": "palace",
+        "memoir": "The young Dauphin - the future Louis XIII - came to Versailles for his first hunting trip on 24 August 1607. He discovered a forest and meadows with plenty of game, which also pleased his father, Henry IV. According to Héroard, however, the doctor who recorded the visit, the Dauphin did not return until 1617. Crowned king in 1610, he next came in 1621, and his liking for the location only grew stronger. Ideally situated between his principal residence at Saint-Germain-en-Laye and Paris, it was surrounded by woods that were noisy with pheasants, boars and stags. In late 1623 the king decided to build a small hunting lodge where he could stay the night and which he first used in June 1624. It was a small country residence and, according to the Maréchal de Bassompierre, “a mere gentleman would not have been overly proud of the construction.” Louis XIII decided to rebuild it in 1631. Construction continued until 1634 and laid the basis of the Palace we know today. The king also bought part of the fiefdom of Versailles in 1632."
+    },
     "Les Thermes de Spa":
     {
         "setting": "La Belle Époque",

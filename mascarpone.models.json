@@ -38,7 +38,8 @@
         "sizes": "92-64-89",
         "shoe_size": 6,
         "foot_type": "Roman",
-        "country": "UK"
+        "country": "UK",
+        "insignia": "null"
     },
     "Molester Jackson":
     {
@@ -103,7 +104,8 @@
         "sizes": "89-69-89",
         "shoe_size": 7,
         "foot_type": "Roman",
-        "country": "US"
+        "country": "US",
+        "insignia": "null"
     },
     "Taj Jackson's Poem":
     {
@@ -128,7 +130,8 @@
         "sizes": "91-58-94",
         "shoe_size": 8,
         "foot_type": "Greek",
-        "country": "FR"
+        "country": "FR",
+        "insignia": "null"
     },
     "Raffaella Fico":
     {
@@ -137,7 +140,8 @@
         "sizes": "84-63-86",
         "shoe_size": 9,
         "foot_type": "Roman",
-        "country": "IT"
+        "country": "IT",
+        "insignia": "null"
     },
     "Olivia Culpo":
     {
@@ -146,7 +150,8 @@
         "sizes": "81-64-89",
         "shoe_size": 8,
         "foot_type": "Roman",
-        "country": "US"
+        "country": "US",
+        "insignia": "null"
     },
     "Tamara Ecclestone":
     {
@@ -155,7 +160,8 @@
         "sizes": "87-61-86",
         "shoe_size": 7.5,
         "foot_type": "Roman",
-        "country": "IT"
+        "country": "IT",
+        "insignia": "null"
     },
     "Jennifer Love Hewitt":
     {
@@ -164,7 +170,8 @@
         "sizes": "97-64-97",
         "shoe_size": 6.5,
         "foot_type": "Greek",
-        "country": "IT"
+        "country": "IT",
+        "insignia": "null"
     },
     "Sorbonne University":
     {

@@ -180,6 +180,214 @@
         "insignia": "null",
         "private": "true"
     },
+    "Stonehenge":
+    {
+        "insignia": "spartan"
+    },
+    "Birth of Venus":
+    {
+        "insignia": "huawei"
+    },
+    "Great Temple (Petra)":
+    {
+        "insignia": "palace"
+    },
+    "Roman Gladiator":
+    {
+        "country": "SP",
+        "insignia": "spartan"
+    },
+    "Temple of Artemis at Ephesus":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Ναός της Αρτέμιδος στην Έφεσο"
+            },
+            "CY":
+            {
+                "title": "Ναός της Αρτέμιδος στην Έφεσο"
+            },
+            "RU":
+            {
+                "title": "Храм Артемиды в Эфесе"
+            },
+            "SU":
+            {
+                "title": "Храм Артемиды в Эфесе"
+            }
+        }
+    },
+    "Last Supper":
+    {
+        "insignia": "cross"
+    },
+    "Library of Celsus":
+    {
+        "insignia": "spartan"
+    },
+    "Great Pyramid of Giza":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Η Πυραμίδα του Χέοπα"
+            },
+            "CY":
+            {
+                "title": "Η Πυραμίδα του Χέοπα"
+            },
+            "RU":
+            {
+                "title": "Пирамида Хеопса"
+            },
+            "SU":
+            {
+                "title": "Пирамида Хеопса"
+            }
+        }
+    },
+    "School of Athens":
+    {
+        "insignia": "spartan"
+    },
+    "Trojan War":
+    {
+        "insignia": "spartan"
+    },
+    "Ishtar Gate":
+    {
+        "insignia": "spartan"
+    },
+    "Mausoleum at Halicarnassus":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Μαυσωλείο στην Αλικαρνασσό"
+            },
+            "CY":
+            {
+                "title": "Μαυσωλείο στην Αλικαρνασσό"
+            },
+            "RU":
+            {
+                "title": "Галикарнасский Мавзолей"
+            },
+            "SU":
+            {
+                "title": "Галикарнасский Мавзолей"
+            }
+        }
+    },
+    "Colossus of Rhodes":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Κολοσσός της Ρόδου"
+            },
+            "CY":
+            {
+                "title": "Κολοσσός της Ρόδου"
+            },
+            "RU":
+            {
+                "title": "Колосс Родосский"
+            },
+            "SU":
+            {
+                "title": "Колосс Родосский"
+            }
+        }
+    },
+    "Hanging Gardens of Babylon":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Κρεμαστοί κήποι της Βαβυλώνας"
+            },
+            "CY":
+            {
+                "title": "Κρεμαστοί κήποι της Βαβυλώνας"
+            },
+            "RU":
+            {
+                "title": "Висячие сады Семирамиды"
+            },
+            "SU":
+            {
+                "title": "Висячие сады Семирамиды"
+            }
+        }
+    },
+    "Statue of Zeus at Olympia":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Άγαλμα του Δία στην Ολυμπία"
+            },
+            "CY":
+            {
+                "title": "Άγαλμα του Δία στην Ολυμπία"
+            },
+            "RU":
+            {
+                "title": "Статуя Зевса в Олимпии"
+            },
+            "SU":
+            {
+                "title": "Статуя Зевса в Олимпии"
+            }
+        }
+    },
+    "Lighthouse of Alexandria":
+    {
+        "insignia": "spartan",
+        "language":
+        {
+            "GR":
+            {
+                "title": "Φάρος της Αλεξάνδρειας"
+            },
+            "CY":
+            {
+                "title": "Φάρος της Αλεξάνδρειας"
+            },
+            "RU":
+            {
+                "title": "Александрийский маяк"
+            },
+            "SU":
+            {
+                "title": "Александрийский маяк"
+            }
+        }
+    },
+    "Siege of Jerusalem (70 AD)":
+    {
+        "insignia": "spartan",
+        "memoir": "The siege of Jerusalem of 70 AD was the decisive event of the First Jewish-Roman War (66-73 AD), in which the Roman army led by future emperor Titus besieged Jerusalem, the center of Jewish rebel resistance in the Roman province of Judaea. Following a five-month siege, the Romans destroyed the city and the Second Jewish Temple."
+    },
+    "Great Library of Alexandria":
+    {
+        "insignia": "spartan",
+        "memoir": "'We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost.' - Alberto Manguel."
+    },
     "Sorbonne University":
     {
         "setting": "La Belle Époque",

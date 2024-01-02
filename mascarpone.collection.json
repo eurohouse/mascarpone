@@ -1,26 +1,35 @@
 {
     "000":
     {
-        "title": "[title]: Le Visiteur du Spa Belge"
+        "title": "[title]: Le Visiteur du Spa Belge",
+        "type": "Leisure",
+        "description": "Your personal space is waiting for you in Les Thermes de Spa, Belgium. Enjoy your pleasurable experience while travelling around beautiful places in Europe."
     },
     "001":
     {
-        "title": "Leaving Neverland at 2019 Sundance Film Festival"
+        "title": "Leaving Neverland at 2019 Sundance Film Festival",
+        "type": "Expedition",
+        "description": "A new Michael Jackson Documentary, Leaving Neverland, premieres at 2019 Sundance Film Festival. The film itself became controversial in America as many people out there were mad at the allegations against their idol introduced in the film. Good luck attending the premiere and be careful."
     },
     "002":
     {
-        "title": "[title]: Le Visiteur du Bali Resort"
+        "title": "[title]: Le Visiteur du Bali Resort",
+        "type": "Leisure",
+        "description": "Your personal space awaits you in the tropical resorts on Bali island. Get ready for such an unforgettable experience way beyond popular tourist destinations."
     },
     "003":
     {
-        "title": "Natural History / 7 Wonders of the Ancient World"
+        "title": "Seven Wonders of the Ancient World",
+        "type": "Time Machine"
     },
     "004":
     {
-        "title": "Europe, Asia, Africa, America, Oceania, Antarctica"
+        "title": "[title]: Le Visiteur du Monde",
+        "type": "Leisure"
     },
     "005":
     {
-        "title": "Merry Christmas and Happy New [xmas] Year"
+        "title": "Merry Christmas and Happy New Year",
+        "type": "Leisure"
     }
 }

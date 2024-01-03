@@ -38,9 +38,7 @@
         "sizes": "92-64-89",
         "shoe_size": 6,
         "foot_type": "Roman",
-        "country": "UK",
-        "insignia": "null",
-        "private": "true"
+        "country": "UK"
     },
     "Molester Jackson":
     {
@@ -105,9 +103,7 @@
         "sizes": "89-69-89",
         "shoe_size": 7,
         "foot_type": "Roman",
-        "country": "US",
-        "insignia": "null",
-        "private": "true"
+        "country": "US"
     },
     "Taj Jackson's Poem":
     {
@@ -132,9 +128,7 @@
         "sizes": "91-58-94",
         "shoe_size": 8,
         "foot_type": "Greek",
-        "country": "FR",
-        "insignia": "null",
-        "private": "true"
+        "country": "FR"
     },
     "Raffaella Fico":
     {
@@ -143,9 +137,7 @@
         "sizes": "84-63-86",
         "shoe_size": 9,
         "foot_type": "Roman",
-        "country": "IT",
-        "insignia": "null",
-        "private": "true"
+        "country": "IT"
     },
     "Olivia Culpo":
     {
@@ -154,9 +146,7 @@
         "sizes": "81-64-89",
         "shoe_size": 8,
         "foot_type": "Roman",
-        "country": "US",
-        "insignia": "null",
-        "private": "true"
+        "country": "US"
     },
     "Tamara Ecclestone":
     {
@@ -165,9 +155,7 @@
         "sizes": "87-61-86",
         "shoe_size": 7.5,
         "foot_type": "Roman",
-        "country": "IT",
-        "insignia": "null",
-        "private": "true"
+        "country": "IT"
     },
     "Jennifer Love Hewitt":
     {
@@ -176,9 +164,7 @@
         "sizes": "97-64-97",
         "shoe_size": 6.5,
         "foot_type": "Greek",
-        "country": "IT",
-        "insignia": "null",
-        "private": "true"
+        "country": "IT"
     },
     "Stonehenge":
     {

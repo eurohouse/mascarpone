@@ -8,6 +8,4 @@ _"Elegance is the only beauty that never fades." - Audrey Hepburn_
 ## Background
 The wallpaper collection contains only high-quality, realistic 4K UHD images with warm color palette. This collection is being introduced with wallpapers from all around the world. The whole background collection is introduced with various photos of places from all around the world made in warm, bright, vivid color palette.
 
-![Collage](https://github.com/eurohouse/mascarpone/blob/main/mascarpone.004.22.png?raw=true)
-
-> :santa: :christmas_tree: :wine_glass: :sparkles: **Merry Christmas and Happy New Year!**
+![Collage](https://github.com/eurohouse/mascarpone/blob/main/mascarpone.001.21.png?raw=true)

@@ -178,6 +178,30 @@
         "insignia": "schutzstaffel",
         "memoir": "The northern lights, or the aurora borealis, are beautiful dancing waves of light that have captivated people for millennia. But for all its beauty, this spectacular light show is a rather violent event. Energized particles from the sun slam into Earth's upper atmosphere at speeds of up to 72 million km/h, but our planet's magnetic field protects us from the onslaught. As Earth's magnetic field redirects the particles toward the poles - there are southern lights, too, which you can read about below - the dramatic process transforms into a cinematic atmospheric phenomenon that dazzles and fascinates scientists and skywatchers alike."
     },
+    "Cara Delevingne":
+    {
+        "height": 1.73,
+        "weight": 51,
+        "sizes": "81-61-87",
+        "shoe_size": 8.5,
+        "country": "GB"
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7,
+        "weight": 63,
+        "sizes": "94-66-91",
+        "shoe_size": 7.5,
+        "country": "BE"
+    },
+    "Barbara Palvin":
+    {
+        "height": 1.75,
+        "weight": 58,
+        "sizes": "85-59-89",
+        "shoe_size": 8,
+        "country": "HU"
+    },
     "Claudine Auger":
     {
         "height": 1.73,
@@ -194,6 +218,7 @@
         "shoe_size": 9,
         "country": "IT"
     },
+    
     "Olivia Culpo":
     {
         "height": 1.66,
@@ -233,16 +258,6 @@
         "sizes": "97-64-97",
         "shoe_size": 6.5,
         "country": "US"
-    },
-    "Eva Darling":
-    {
-        "country": "US",
-        "height": 0,
-        "weight": 0,
-        "sizes": "X-X-X",
-        "shoe_size": 0,
-        "maison": "https://www.eva-darling.com",
-        "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
     },
     "Chrisette Michele":
     {

@@ -186,6 +186,14 @@
         "shoe_size": 8.5,
         "country": "GB"
     },
+    "Vanessa VillaFuerte":
+    {
+        "height": 0,
+        "weight": 0,
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "country": "US"
+    },
     "Rose Bertram":
     {
         "height": 1.7,

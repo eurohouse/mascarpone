@@ -43,13 +43,23 @@
     {
         "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse"
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "French Feet":
     {
         "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse"
+        "insignia": "eurohouse",
+        "height": 0,
+        "weight": 0,
+        "sizes": "0-0-0",
+        "shoe_size": 0,
+        "birthday": ""
     },
     "⛰ Zermatt Matterhorn 🌲":
     {
@@ -64,7 +74,8 @@
         "weight": 52,
         "sizes": "92-64-89",
         "shoe_size": 6,
-        "country": "GB"
+        "country": "GB",
+        "birthday": "May 2, 1985"
     },
     "Molester Jackson":
     {
@@ -121,7 +132,8 @@
         "weight": 57,
         "sizes": "89-69-89",
         "shoe_size": 7,
-        "country": "US"
+        "country": "US",
+        "birthday": "December 2, 1981"
     },
     "Taj Jackson's Poem":
     {
@@ -143,6 +155,7 @@
     "Michael Jackson":
     {
         "insignia": "mjfam",
+        "birthday": "August 29, 1958",
         "memoir": "We continue our review of MK-Ultra and the entertainment industry. \"The bimbos that Hollywood has foisted on us as \"stars\" are largely mind-controlled playthings of the elite.\" Michael Jackson may have been passed up the paedophile food chain in order to receive the backing, marketing and exposure that made him a household name... The fallout revealed itself in all the strange and inexplicable behavior. He changed his face trying to put distance between him and his past. But he never could escape The Man in the Mirror. Victims victimize others. Prey it forward. Jackson is in the news again because of a new four-hour long documentary Leaving Neverland documents his depraved exploitation of young boys."
     },
     "No Tears Left To Cry":
@@ -184,7 +197,8 @@
         "weight": 51,
         "sizes": "81-61-87",
         "shoe_size": 8.5,
-        "country": "GB"
+        "country": "GB",
+        "birthday": "August 12, 1992"
     },
     "Vanessa VillaFuerte":
     {
@@ -192,7 +206,8 @@
         "weight": 0,
         "sizes": "0-0-0",
         "shoe_size": 0,
-        "country": "US"
+        "country": "US",
+        "birthday": ""
     },
     "Rose Bertram":
     {
@@ -200,7 +215,8 @@
         "weight": 63,
         "sizes": "94-66-91",
         "shoe_size": 7.5,
-        "country": "BE"
+        "country": "BE",
+        "birthday": "October 26, 1994"
     },
     "Barbara Palvin":
     {
@@ -208,7 +224,8 @@
         "weight": 58,
         "sizes": "85-59-89",
         "shoe_size": 8,
-        "country": "HU"
+        "country": "HU",
+        "birthday": "October 8, 1993"
     },
     "Claudine Auger":
     {
@@ -216,7 +233,8 @@
         "weight": 61,
         "sizes": "91-58-94",
         "shoe_size": 8,
-        "country": "FR"
+        "country": "FR",
+        "birthday": "April 26, 1941"
     },
     "Raffaella Fico":
     {
@@ -224,16 +242,17 @@
         "weight": 58,
         "sizes": "84-63-86",
         "shoe_size": 9,
-        "country": "IT"
+        "country": "IT",
+        "birthday": "January 29, 1988"
     },
-    
     "Olivia Culpo":
     {
         "height": 1.66,
         "weight": 52,
         "sizes": "81-64-89",
         "shoe_size": 8,
-        "country": "US"
+        "country": "US",
+        "birthday": "May 8, 1992"
     },
     "Beyoncé":
     {
@@ -241,7 +260,8 @@
         "weight": 62,
         "sizes": "89-66-99",
         "shoe_size": 8.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "September 4, 1981"
     },
     "Dua Lipa":
     {
@@ -249,7 +269,8 @@
         "weight": 61,
         "sizes": "81-64-89",
         "shoe_size": 8.5,
-        "country": "GB"
+        "country": "GB",
+        "birthday": "August 22, 1995"
     },
     "Tamara Ecclestone":
     {
@@ -257,7 +278,8 @@
         "weight": 51,
         "sizes": "87-61-86",
         "shoe_size": 7.5,
-        "country": "IT"
+        "country": "IT",
+        "birthday": "June 28, 1984"
     },
     "Jennifer Love Hewitt":
     {
@@ -265,7 +287,8 @@
         "weight": 56,
         "sizes": "97-64-97",
         "shoe_size": 6.5,
-        "country": "US"
+        "country": "US",
+        "birthday": "February 21, 1979"
     },
     "Chrisette Michele":
     {
@@ -274,6 +297,7 @@
         "height": 1.7,
         "weight": 69,
         "sizes": "86-63-76",
-        "shoe_size": 8
+        "shoe_size": 8,
+        "birthday": "December 8, 1982"
     }
 }

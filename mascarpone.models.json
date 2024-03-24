@@ -43,14 +43,28 @@
     {
         "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse"
+        "insignia": "eurohouse",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Парижская девушка"
+            }
+        }
     },
     "French Feet":
     {
         "foot_type": "Roman",
         "country": "FR",
         "insignia": "eurohouse",
-        "nsfw": "true"
+        "nsfw": "true",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Ноги француженки"
+            }
+        }
     },
     "⛰ Zermatt Matterhorn 🌲":
     {
@@ -66,7 +80,14 @@
         "sizes": "92-64-89",
         "shoe_size": 6,
         "country": "GB",
-        "birthday": "May 2, 1985"
+        "birthday": "May 2, 1985",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Лили Аллен"
+            }
+        }
     },
     "Molester Jackson":
     {
@@ -124,7 +145,14 @@
         "sizes": "89-69-89",
         "shoe_size": 7,
         "country": "US",
-        "birthday": "December 2, 1981"
+        "birthday": "December 2, 1981",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Бритни Спирс"
+            }
+        }
     },
     "Taj Jackson's Poem":
     {
@@ -195,11 +223,25 @@
         "sizes": "81-61-87",
         "shoe_size": 8.5,
         "country": "GB",
-        "birthday": "August 12, 1992"
+        "birthday": "August 12, 1992",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Кара Делевинь"
+            }
+        }
     },
     "Vanessa VillaFuerte":
     {
-        "nsfw": "true"
+        "nsfw": "true",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Ванесса Вилаферте"
+            }
+        }
     },
     "Rose Bertram":
     {
@@ -208,7 +250,14 @@
         "sizes": "94-66-91",
         "shoe_size": 7.5,
         "country": "BE",
-        "birthday": "October 26, 1994"
+        "birthday": "October 26, 1994",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Роза Бертрам"
+            }
+        }
     },
     "Barbara Palvin":
     {
@@ -217,7 +266,14 @@
         "sizes": "85-59-89",
         "shoe_size": 8,
         "country": "HU",
-        "birthday": "October 8, 1993"
+        "birthday": "October 8, 1993",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Барбара Палвин"
+            }
+        }
     },
     "Claudine Auger":
     {
@@ -226,7 +282,14 @@
         "sizes": "91-58-94",
         "shoe_size": 8,
         "country": "FR",
-        "birthday": "April 26, 1941"
+        "birthday": "April 26, 1941",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Клодин Оже"
+            }
+        }
     },
     "Raffaella Fico":
     {
@@ -235,7 +298,14 @@
         "sizes": "84-63-86",
         "shoe_size": 9,
         "country": "IT",
-        "birthday": "January 29, 1988"
+        "birthday": "January 29, 1988",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Рафаэлла Фико"
+            }
+        }
     },
     "Olivia Culpo":
     {
@@ -244,7 +314,14 @@
         "sizes": "81-64-89",
         "shoe_size": 8,
         "country": "US",
-        "birthday": "May 8, 1992"
+        "birthday": "May 8, 1992",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Оливия Калпо"
+            }
+        }
     },
     "Beyoncé":
     {
@@ -253,7 +330,14 @@
         "sizes": "89-66-99",
         "shoe_size": 8.5,
         "country": "US",
-        "birthday": "September 4, 1981"
+        "birthday": "September 4, 1981",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Бейонсе"
+            }
+        }
     },
     "Dua Lipa":
     {
@@ -262,7 +346,14 @@
         "sizes": "81-64-89",
         "shoe_size": 8.5,
         "country": "GB",
-        "birthday": "August 22, 1995"
+        "birthday": "August 22, 1995",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Дуа Липа"
+            }
+        }
     },
     "Tamara Ecclestone":
     {
@@ -271,7 +362,14 @@
         "sizes": "87-61-86",
         "shoe_size": 7.5,
         "country": "IT",
-        "birthday": "June 28, 1984"
+        "birthday": "June 28, 1984",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Тамара Экклестон"
+            }
+        }
     },
     "Jennifer Love Hewitt":
     {
@@ -280,7 +378,14 @@
         "sizes": "97-64-97",
         "shoe_size": 6.5,
         "country": "US",
-        "birthday": "February 21, 1979"
+        "birthday": "February 21, 1979",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Дженнифер Лав Хьюитт"
+            }
+        }
     },
     "Chrisette Michele":
     {
@@ -290,6 +395,13 @@
         "weight": 69,
         "sizes": "86-63-76",
         "shoe_size": 8,
-        "birthday": "December 8, 1982"
+        "birthday": "December 8, 1982",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Крисет Мишель"
+            }
+        }
     }
 }

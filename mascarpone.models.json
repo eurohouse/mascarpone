@@ -1,0 +1,181 @@
+{
+    "Parisian Girl":
+    {
+        "foot_type": "Roman",
+        "country": "FR",
+        "insignia": "eurohouse",
+        "language":
+        {
+            "RU": { "title": "Парижская девушка" }
+        }
+    },
+    "French Feet":
+    {
+        "foot_type": "Roman",
+        "country": "FR",
+        "insignia": "eurohouse",
+        "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Ноги француженки" }
+        }
+    },
+    "Lily Allen":
+    {
+        "height": 1.57,
+        "weight": 52,
+        "sizes": "92-64-89",
+        "shoe_size": 6,
+        "country": "GB",
+        "nsfw": "true",
+        "birthday": "May 2, 1985",
+        "language":
+        {
+            "RU": { "title": "Лили Аллен" }
+        }
+    },
+    "Britney Spears":
+    {
+        "height": 1.63,
+        "weight": 57,
+        "sizes": "89-69-89",
+        "shoe_size": 7,
+        "country": "US",
+        "nsfw": "true",
+        "birthday": "December 2, 1981",
+        "language":
+        {
+            "RU": { "title": "Бритни Спирс" }
+        }
+    },
+    "Cara Delevingne":
+    {
+        "height": 1.73, "weight": 51,
+        "sizes": "81-61-87", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 12, 1992",
+        "language":
+        {
+            "RU": { "title": "Кара Делевинь" }
+        }
+    },
+    "Vanessa VillaFuerte":
+    {
+        "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Ванесса Вилаферте" }
+        }
+    },
+    "Rose Bertram":
+    {
+        "height": 1.7, "weight": 63,
+        "sizes": "94-66-91", "nsfw": "true",
+        "shoe_size": 7.5, "country": "BE",
+        "birthday": "October 26, 1994",
+        "language":
+        {
+            "RU": { "title": "Роза Бертрам" }
+        }
+    },
+    "Barbara Palvin":
+    {
+        "height": 1.75, "weight": 58,
+        "sizes": "85-59-89", "nsfw": "true",
+        "shoe_size": 8, "country": "HU",
+        "birthday": "October 8, 1993",
+        "language":
+        {
+            "RU": { "title": "Барбара Палвин" }
+        }
+    },
+    "Claudine Auger":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "91-58-94", "nsfw": "true",
+        "shoe_size": 8, "country": "FR",
+        "birthday": "April 26, 1941",
+        "language":
+        {
+            "RU": { "title": "Клодин Оже" }
+        }
+    },
+    "Raffaella Fico":
+    {
+        "height": 1.73, "weight": 58,
+        "sizes": "84-63-86", "nsfw": "true",
+        "shoe_size": 9, "country": "IT",
+        "birthday": "January 29, 1988",
+        "language":
+        {
+            "RU": { "title": "Рафаэлла Фико" }
+        }
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66, "weight": 52,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "May 8, 1992",
+        "language":
+        {
+            "RU": { "title": "Оливия Калпо" }
+        }
+    },
+    "Beyoncé":
+    {
+        "height": 1.7, "weight": 62,
+        "sizes": "89-66-99", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "September 4, 1981",
+        "language":
+        {
+            "RU": { "title": "Бейонсе" }
+        }
+    },
+    "Dua Lipa":
+    {
+        "height": 1.73, "weight": 61,
+        "sizes": "81-64-89", "nsfw": "true",
+        "shoe_size": 8.5, "country": "GB",
+        "birthday": "August 22, 1995",
+        "language":
+        {
+            "RU": { "title": "Дуа Липа" }
+        }
+    },
+    "Tamara Ecclestone":
+    {
+        "height": 1.73, "weight": 51,
+        "sizes": "87-61-86", "nsfw": "true",
+        "shoe_size": 7.5, "country": "IT",
+        "birthday": "June 28, 1984",
+        "language":
+        {
+            "RU": { "title": "Тамара Экклестон" }
+        }
+    },
+    "Jennifer Love Hewitt":
+    {
+        "height": 1.57, "weight": 56,
+        "sizes": "97-64-97", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 21, 1979",
+        "language":
+        {
+            "RU": { "title": "Дженнифер Лав Хьюитт" }
+        }
+    },
+    "Chrisette Michele":
+    {
+        "memoir": "Songbird Chrisette Michele channels her inner T-Pain, using auto-tune for her new single, ‘Charade’. Chrisette also snags 2 Chainz for the slow track, that will be featured on her new mix tape (scheduled to hit the net in December) - Audrey Hepburn: The Mixtape. Check it out.",
+        "height": 1.7, "weight": 69,
+        "sizes": "86-63-76", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "December 8, 1982",
+        "language":
+        {
+            "RU": { "title": "Крисет Мишель" }
+        }
+    }
+}

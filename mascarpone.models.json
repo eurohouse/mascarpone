@@ -13,6 +13,50 @@
             }
         }
     },
+    "Château de Versailles":
+    {
+        "setting": "La Belle Époque",
+        "country": "FR",
+        "insignia": "palace",
+        "maison": "https://www.chateauversailles.fr",
+        "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Версальский дворец",
+                "memoir": "Посетители, глядя через центральное окно Зеркального зала, увидят Большую перспективу, уходящую к горизонту от Водного партера. Эта уникальная перспектива с востока на запад возникла еще до правления Людовика XIV, но она была развита и расширена садовником Андре Ле Нотром, который расширил Королевский путь и выкопал Большой канал."
+            }
+        }
+    },
+    "Parisian Balcony":
+    {
+        "country": "FR",
+        "insignia": "toureiffel",
+        "memoir": "Sometimes architecture is so much a part of the fabric of a city that it makes its way into our imagination without us even realizing it. We can hardly think of New York without that iconic skyline filled with gravity-defying skyscrapers, just as no image of London would be complete without a backdrop of terraced houses covered in English ivy. But perhaps no scene is as iconic as the great boulevards of Paris, lined with those romantic pale stone buildings ringed in wrought iron balconies.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Балконы Парижа",
+                "memoir": "Иногда архитектура настолько является частью городской структуры, что проникает в наше воображение, даже не осознавая этого. Мы вряд ли можем думать о Нью-Йорке без этого культового горизонта, наполненного небоскребами, бросающими вызов гравитации, точно так же, как ни один образ Лондона не был бы полным без фона домов с террасами, покрытых английским плющом. Но, пожалуй, ни одна сцена не является столь знаковой, как большие бульвары Парижа, вдоль которых выстроились романтические здания из светлого камня, окруженные балконами из кованого железа."
+            }
+        }
+    },
+    "Les Thermes de Spa":
+    {
+        "country": "BE",
+        "insignia": "huawei",
+        "memoir": "The Thermes of Spa combine modern wellness with traditional hydrotherapy; peat baths, balneotherapy treatments, benefits conferred by drinking water, pleasures of water games, relaxation or fitness programs, beauty treatments.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Термальные источники Спа",
+                "memoir": "Термы Спа сочетают современный велнес с традиционной гидротерапией; торфяные ванны, бальнеотерапевтические процедуры, польза от питьевой воды, водные игры, программы релаксации или фитнеса, косметические процедуры."
+            }
+        }
+    },
     "Parisian Girl":
     {
         "foot_type": "Roman",

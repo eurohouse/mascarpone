@@ -57,6 +57,20 @@
             }
         }
     },
+    "Vichy Célestins Spa Hôtel":
+    {
+        "country": "FR",
+        "insignia": "fleurdelis",
+        "memoir": "In the seventeenth century, the French Marquise Madame de Sévigné extolled the virtues of Vichy’s waters which flow from the feet of the Auvergne volcanoes. She praised these waters which healed her rheumatism \"It is certain that the waters here are miraculous\". They also enhanced her beauty \"These waters make my skin soft and smooth.\"",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Курорт Виши во Франции",
+                "memoir": "Утопающий в зелене парка Наполеона III, VICHY CÉLESTINS SPA HÔTEL расположен в самом центре термального курорта Виши, на берегу озера Алье, всего в нескольких шагах от известного источника минеральной воды VICHY Célestins."
+            }
+        }
+    },
     "Parisian Girl":
     {
         "foot_type": "Roman",

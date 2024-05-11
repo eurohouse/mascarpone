@@ -92,6 +92,49 @@
             "RU": { "title": "Ноги француженки" }
         }
     },
+    "Sunset in Paris":
+    {
+        "country": "FR",
+        "insignia": "toureiffel",
+        "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Закаты Парижа",
+                "memoir": "Париж – популярное направление для туристов со всего мира круглый год. Столица, известная как Город Света, предлагает исключительные виды в любое время суток. Сумерки — это уникальный момент, когда яркие цвета приглашают нас помечтать."
+            }
+        }
+    },
+    "Zermatt Matterhorn":
+    {
+        "country": "CH",
+        "insignia": "louvre",
+        "maison": "https://www.zermatt.ch/en/matterhorn",
+        "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Церматт Маттерхорн",
+                "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
+            }
+        }
+    },
+    "Pont Alexandre III":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "Inaugurated on the occasion of the 1900 Universal Exhibition and classed as a historic monument, the Pont Alexandre III is one of the most emblematic bridges in Paris because of its architecture and location.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Мост Александра III",
+                "memoir": "Мост Александра III, открытый по случаю Всемирной выставки 1900 года и классифицированный как исторический памятник, является одним из самых символичных мостов Парижа благодаря своей архитектуре и расположению."
+            }
+        }
+    },
     "Lily Allen":
     {
         "height": 1.57,
@@ -248,6 +291,34 @@
         "language":
         {
             "RU": { "title": "Крисет Мишель" }
+        }
+    },
+    "Zentralen Ostalpen":
+    {
+        "country": "AT",
+        "insignia": "express",
+        "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Центрально-Восточные Альпы",
+                "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
+            }
+        }
+    },
+    "Global Seed Vault":
+    {
+        "country": "NO",
+        "insignia": "shell",
+        "memoir": "The Seed Vault was opened 26 February 2008 in the presence of the Prime Minister of Norway, Jens Stoltenberg, the President of the European Union, José Manuel Barroso, Director-General of the Food and Agriculture Organization (FAO) of the United Nations, Jacques Diouf, and Nobel Peace Prize laureate, Wangari Maathai.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Всемирное хранилище",
+                "memoir": "Хранилище семян было открыто 26 февраля 2008 года в присутствии премьер-министра Норвегии Йенса Столтенберга, президента Европейского Союза Жозе Мануэля Баррозу, генерального директора Продовольственной и сельскохозяйственной организации (ФАО) ООН Жака Диуф и лауреат Нобелевской премии мира Вангари Маатаи."
+            }
         }
     }
 }

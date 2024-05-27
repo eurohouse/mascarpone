@@ -73,9 +73,7 @@
     },
     "Parisian Girl":
     {
-        "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse",
         "language":
         {
             "RU": { "title": "Парижская девушка" }
@@ -83,9 +81,7 @@
     },
     "French Feet":
     {
-        "foot_type": "Roman",
         "country": "FR",
-        "insignia": "eurohouse",
         "nsfw": "true",
         "language":
         {

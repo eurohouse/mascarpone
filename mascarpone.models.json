@@ -131,6 +131,34 @@
             }
         }
     },
+    "Aurora Borealis":
+    {
+        "country": "NO",
+        "insignia": "compass",
+        "memoir": "The northern lights, or the aurora borealis, are beautiful dancing ribbons of light that have captivated people for millennia. But for all its beauty, this spectacular light show is a rather violent event.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Северное Сияние",
+                "memoir": "Северное сияние, или северное сияние, представляет собой красивые танцующие ленты света, которые пленяли людей на протяжении тысячелетий. Но при всей своей красоте это зрелищное световое шоу является довольно жестоким событием."
+            }
+        }
+    },
+    "NASA Moon Landing":
+    {
+        "country": "US",
+        "insignia": "compass",
+        "memoir": "On July 20, 1969, an estimated 650 million people watched in suspense as Neil Armstrong descended a ladder towards the surface of the Moon. As he took his first steps, he uttered words that would be written into history books for generations to come: \"That's one small step for man. One giant leap for mankind.\"",
+        "language":
+        {
+            "RU":
+            {
+                "title": "NASA Высадка на луну",
+                "memoir": "20 июля 1969 года около 650 миллионов человек с нетерпением наблюдали, как Нил Армстронг спускался по лестнице к поверхности Луны. Делая свои первые шаги, он произнес слова, которые будут записаны в учебники истории для будущих поколений: \"Это один маленький шаг для человека. Гигантский скачок для человечества.\""
+            }
+        }
+    },
     "Lily Allen":
     {
         "height": 1.57,

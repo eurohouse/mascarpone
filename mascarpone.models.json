@@ -316,5 +316,54 @@
         {
             "RU": { "title": "Крисет Мишель" }
         }
+    },
+    "Italian Bombshell":
+    {
+        "foot_type": "Roman",
+        "country": "IT",
+        "insignia": "eurohouse",
+        "nsfw": "true",
+        "language":
+        {
+            "RU": { "title": "Сексуальная итальянка" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Selena Gomez":
+    {
+        "height": 1.65, "weight": 54,
+        "sizes": "86-61-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "July 22, 1992",
+        "language":
+        {
+            "RU": { "title": "Селена Гомес" }
+        }
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Eva Darling":
+    {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com"
     }
 }

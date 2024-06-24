@@ -237,6 +237,19 @@
             }
         }
     },
+    "Megan Fox":
+    {
+        "height": 1.63,
+        "weight": 52,
+        "shoe_size": 7,
+        "country": "US",
+        "nsfw": "true",
+        "birthday": "May 16, 1986",
+        "language":
+        {
+            "RU": { "title": "Меган Фокс" }
+        }
+    },
     "Lily Allen":
     {
         "height": 1.57,

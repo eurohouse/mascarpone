@@ -237,6 +237,72 @@
             }
         }
     },
+    "Lofoten Islands":
+    {
+        "country": "NO",
+        "insignia": "compass",
+        "memoir": "Cities like Oslo, Bergen, and Stavanger in particular have become important hubs for both Norwegian and foreign chefs, in addition to aspiring professionals willing to come and learn about the new Nordic cuisine. Trondheim and Trøndelag, European Region of Gastronomy 2022, have become one of the hottest spots for foodies from all over the world."
+    },
+    "Meteora":
+    {
+        "country": "GR",
+        "insignia": "corinth",
+        "memoir": "Meteora monasteries – the miracle of Greece. Few kilometers northwest of the town of Kalabaka, the impressive rocks of Meteora are rising from the plains of Thessaly been one of the most amazing places in Greece. Many centuries ago, on these gigantic rocks with the breathtaking landscape reaching heights of more than 600 meters, it was formed one of the most important monastic communities of Greece. The Greek word Meteora means “suspended in the air” and this phrase aptly describes these remarkable Greek Orthodox monasteries."
+    },
+    "Mediterranean Sea":
+    {
+        "country": "GR",
+        "insignia": "spartan",
+        "memoir": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa, on the east by the Levant in West Asia, and on the west almost by the Morocco-Spain border. The Mediterranean has played a central role in the history of Western civilization. Geological evidence indicates that around 5.9 million years ago the Mediterranean was cut off from the Atlantic and was partly or completely desiccated over a period of some 600,000 years during the Messinian salinity crisis before being refilled by the Zanclean flood about 5.3 million years ago."
+    },
+    "Montmartre":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "The second method is to keep a map in your pocket (just in case) and try to lose yourself in the steep and cobbled streets of one of the most historic and interesting neighborhoods in Paris. Remember that the Basilica of Sacre-Coeur (the big white church) sits on the crest of the hill, so as long as you are heading uphill there is little possibility of being lost for long. At the bottom of the hill is the Boulevard de Clichy which is lined with bars, kebab shops, and more sex shops and peep-shows than you can possibly pretend you are not looking at. If you think of a triangle, consider the base of it to be the section of Blvd. de Clichy and Blvd. de Rochechouart between the metro stations Blanche and Anvers. The tip of the triangle would be the Basilica of Sacre-Coeur. The area between these three points is roughly the area of interest."
+    },
+    "Sorbonne University":
+    {
+        "country": "FR",
+        "insignia": "palace",
+        "memoir": "To welcome students who come from all over Europe that were grouped together in \"nations\", many colleges were created on the slopes of the Montagne Sainte-Geneviève. Founded by Robert de Sorbon, the master of theology, and recognised by royal power in 1257, it became the main establishment of the Faculty of Theology. The \"Sorbonne\" college gained a considerable reputation, contributing to the European influence of the University of Paris. The teaching places linked to the various other faculties were scattered around the same district, as the colleges grew in number, a continuous movement until the 17th century, at which time libraries and lecture halls were created."
+    },
+    "Taj Mahal":
+    {
+        "country": "IN",
+        "insignia": "capitol",
+        "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
+    },
+    "Manarola":
+    {
+        "country": "IT",
+        "insignia": "squid",
+        "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around."
+    },
+    "Santorini":
+    {
+        "country": "GR",
+        "insignia": "spartan",
+        "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades."
+    },
+    "Akihabara":
+    {
+        "country": "JP",
+        "insignia": "balloon",
+        "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district."
+    },
+    "Ardennes":
+    {
+        "country": "BE",
+        "insignia": "palace",
+        "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate."
+    },
+    "Tuscany":
+    {
+        "country": "IT",
+        "insignia": "wine",
+        "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\"."
+    },
     "Megan Fox":
     {
         "height": 1.63,

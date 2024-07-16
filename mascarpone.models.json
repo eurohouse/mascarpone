@@ -102,6 +102,34 @@
             }
         }
     },
+    "Zentralen Ostalpen":
+    {
+        "country": "AT",
+        "insignia": "express",
+        "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Центрально-Восточные Альпы",
+                "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
+            }
+        }
+    },
+    "Global Seed Vault":
+    {
+        "country": "NO",
+        "insignia": "shell",
+        "memoir": "The Seed Vault was opened 26 February 2008 in the presence of the Prime Minister of Norway, Jens Stoltenberg, the President of the European Union, José Manuel Barroso, Director-General of the Food and Agriculture Organization (FAO) of the United Nations, Jacques Diouf, and Nobel Peace Prize laureate, Wangari Maathai.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Всемирное хранилище",
+                "memoir": "Хранилище семян было открыто 26 февраля 2008 года в присутствии премьер-министра Норвегии Йенса Столтенберга, президента Европейского Союза Жозе Мануэля Баррозу, генерального директора Продовольственной и сельскохозяйственной организации (ФАО) ООН Жака Диуф и лауреат Нобелевской премии мира Вангари Маатаи."
+            }
+        }
+    },
     "Zermatt Matterhorn":
     {
         "country": "CH",

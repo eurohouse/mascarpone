@@ -360,7 +360,7 @@
         "sizes": "94-66-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "BE",
         "birthday": "October 26, 1994",
-        "index": "3,4", "language":
+        "language":
         {
             "RU": { "title": "Роза Бертрам" }
         }
@@ -371,7 +371,7 @@
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
         "birthday": "October 8, 1993",
-        "index": "0,1", "language":
+        "language":
         {
             "RU": { "title": "Барбара Палвин" }
         }
@@ -404,7 +404,7 @@
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "May 8, 1992",
-        "index": "0,2", "language":
+        "language":
         {
             "RU": { "title": "Оливия Калпо" }
         }

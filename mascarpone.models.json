@@ -1,8 +1,7 @@
 {
     "Mermaid Inn":
     {
-        "country": "GB",
-        "insignia": "Mermaid",
+        "country": "GB", "insignia": "Mermaid",
         "maison": "https://www.mermaidinn.com",
         "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
         "language":
@@ -16,8 +15,7 @@
     "Château de Versailles":
     {
         "setting": "La Belle Époque",
-        "country": "FR",
-        "insignia": "Palace",
+        "country": "FR", "insignia": "Palace",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
         "language":
@@ -31,8 +29,7 @@
     },
     "Parisian Balcony":
     {
-        "country": "FR",
-        "insignia": "EiffelTower",
+        "country": "FR", "insignia": "EiffelTower",
         "memoir": "Sometimes architecture is so much a part of the fabric of a city that it makes its way into our imagination without us even realizing it. We can hardly think of New York without that iconic skyline filled with gravity-defying skyscrapers, just as no image of London would be complete without a backdrop of terraced houses covered in English ivy. But perhaps no scene is as iconic as the great boulevards of Paris, lined with those romantic pale stone buildings ringed in wrought iron balconies.",
         "language":
         {
@@ -45,8 +42,7 @@
     },
     "Les Thermes de Spa":
     {
-        "country": "BE",
-        "insignia": "Amphora",
+        "country": "BE", "insignia": "Amphora",
         "memoir": "The Thermes of Spa combine modern wellness with traditional hydrotherapy; peat baths, balneotherapy treatments, benefits conferred by drinking water, pleasures of water games, relaxation or fitness programs, beauty treatments.",
         "language":
         {
@@ -59,8 +55,7 @@
     },
     "Canals and Rii of Venice":
     {
-        "country": "IT",
-        "insignia": "Ship",
+        "country": "IT", "insignia": "Compass",
         "memoir": "It is of course all the charm and all the beauty of Venice. Water, mirrors not only our souls but also the palaces. Water not only embellishes, water is the source of life. All these multicolored images and generally gilded of the canals of Venice undeniably bring a unique visual dimension to the city. But beyond this romantic and artistic aspect of the canals of Venice are the historical and present day factors.",
         "language":
         {
@@ -73,25 +68,21 @@
     },
     "French Girl":
     {
-        "country": "FR",
-        "language":
+        "country": "FR", "insignia": "Lady", "language":
         {
             "RU": { "title": "Девушка из Франции" }
         }
     },
     "French Feet":
     {
-        "country": "FR",
-        "nsfw": "true",
-        "language":
+        "country": "FR", "nsfw": "true", "language":
         {
             "RU": { "title": "Ноги француженки" }
         }
     },
     "Sunset in Paris":
     {
-        "country": "FR",
-        "insignia": "EiffelTower",
+        "country": "FR", "insignia": "EiffelTower",
         "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
         "language":
         {
@@ -104,8 +95,7 @@
     },
     "Zentralen Ostalpen":
     {
-        "country": "AT",
-        "insignia": "OrientExpress",
+        "country": "AT", "insignia": "OrientExpress",
         "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
         "language":
         {
@@ -118,8 +108,7 @@
     },
     "Zermatt Matterhorn":
     {
-        "country": "CH",
-        "insignia": "Louvre",
+        "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
         "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
         "language":
@@ -133,8 +122,7 @@
     },
     "Pont Alexandre III":
     {
-        "country": "FR",
-        "insignia": "Palace",
+        "country": "FR", "insignia": "Palace",
         "memoir": "Inaugurated on the occasion of the 1900 Universal Exhibition and classed as a historic monument, the Pont Alexandre III is one of the most emblematic bridges in Paris because of its architecture and location.",
         "language":
         {
@@ -147,92 +135,77 @@
     },
     "Illuminati Pop Stars":
     {
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "Handlers employed by the multi-trillion dollar entertainment industry craft these celebrities from children, subjecting them to various abusive forms of psychological torture. They are programmed to play the role of fame and success, but are ultimately wired to self-destruct before the entire world. Miley Cyrus, Ariana Grande, Katy Perry and Amanda Bynes are a few of our contemporaries."
     },
     "Victims of Monarch Programming":
     {     
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "Roseanne Barr spoke about MK Ultra programming in Hollywood in an interview with Abbey Martin. Many other celebrities have also spoken out. Corey Feldman went public with claims that Hollywood culture is rife with pedophilia, which is a powerful means of psychologically destroying a child. Bill Clinton even admitted that the government has been engaged in MK Ultra type programs where experiments were carried out on unwitting persons."
     },
     "MK-ULTRA Slave: Katy Perry":
     {
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "This is what happened with Katy Perry in the Summer of 2017, who publicly broke down, went on a psychotic fit on stage, then ended up making bizarre public statements about wanting to be herself again. She shaved her head, as many of these stars do as a first step in re-crafting an identity out of a shattered psyche. Britney Spears went through a nearly identical breakdown at the end of her career. This sets an example for those in the audience. Be outrageous. Be a puppet. Destroy yourself."
     },
     "MK-ULTRA Slave: Michael Jackson":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "We continue our review of MK-Ultra and the entertainment industry. \"The bimbos that Hollywood has foisted on us as “stars” are largely mind-controlled playthings of the elite.\" Michael Jackson may have been passed up the paedophile food chain in order to receive the backing, marketing and exposure that made him a household name... The fallout revealed itself in all the strange and inexplicable behavior. He changed his face trying to put distance between him and his past. But he never could escape The Man in the Mirror. Victims victimize others. Prey it forward. Jackson is in the news again because of a new four-hour long documentary Leaving Neverland documents his depraved exploitation of young boys."
     },
     "Ariana Grande Marilyn Monroe's Birthday":
     {
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "Marilyn Monroe would've turned 88 on Sunday, a milestone Ariana Grande recognized on Twitter. But the singer's well-meaning tweet led to a big backlash - and a rant from the star hitting back at the criticism. \"so much hate for celebrating Marilyn's spirit on her birthday. I adore her work and have compassion for her inner sadness that she covered up on a daily basis that a**holes like you made her feel in the first place!!\" Grande wrote. She went on, \"I feel for the people who focus on hate... because that's all you have to give. and I truly do feel sorry for you because when you've been dead for 50 some odd years... nobody will be wishing you a happy birthday.\""
     },
     "Central Park":
     {
-        "country": "US",
-        "insignia": "Liberty",
+        "country": "US", "insignia": "Liberty",
         "memoir": "The creation of a large park in Manhattan was first proposed in the 1840s, and a 315 ha park approved in 1853. In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition for the park with their \"Greensward Plan\". Construction began in 1857; existing structures, including a majority-Black settlement named Seneca Village, were seized through eminent domain and razed. The park's first areas were opened to the public in late 1858. Additional land at the northern end of Central Park was purchased in 1859, and the park was completed in 1876. After a period of decline in the early 20th century, New York City parks commissioner Robert Moses started a program to clean up Central Park in the 1930s. The Central Park Conservancy, created in 1980 to combat further deterioration in the late 20th century, refurbished many parts of the park starting in the 1980s."
     },
     "Neverland Ranch":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "A documentary on Michael Jackson that debuted Sunday night on HBO features accusations from two men who claim the late pop icon sexually assaulted them when they were children. \"Leaving Neverland\" tells the stories of James Safechuck and Wade Robson, who allege the legendary singer sexually abused them separately. The first part of the four-hour documentary aired Sunday night. Part two aired Monday night. All four hours are available for streaming on HBO Now and HBO Go."
     },
     "Most Unsanitary Person in Hollywood":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "'Michael Jackson was the most unsanitary person in Hollywood': How the singer threatened to throw 'do-do laced snowballs' and even peed on the Neverland entrance hall floor Oprah passed over the day before. Michael Jackson's former housekeepers have claimed he lived in deplorable conditions inside Neverland Ranch. The singer allegedly threatened throwing 'doo-doo snowballs' at staff. Jackson's living conditions reportedly led to a bedbug outbreak. He allegedly peed on the floor in front of a housekeeper the day after his Oprah interview."
     },
     "Leaving Neverland":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "Prior to his death, Jackson faced allegations of child molestation in 1993 and 2003. In 1995, Jackson reached a $23 million settlement with the family of Jordan Chandler, and was acquitted by a California jury on charges of alleged abuse of a 13-year-old boy in 2005. He denied ever acting inappropriately with children throughout his life. In their first television interview prior to the airing of \"Leaving Neverland,\" Robson and Safechuck told \"CBS This Morning\" how their alleged abuse with Jackson began. Both detailed the methods Jackson allegedly used when they visited his Neverland ranch in California as children."
     },
     "Michael Jackson Estate":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "Members of the Jackson family have publicly denounced \"Leaving Neverland,\" arguing that not only are the allegations detailed in the documentary false, but that filmmakers never reached out to the family for comment or gave them a chance to argue for Jackson's innocence. Michael Jackson's brothers Jackie, Tito, Marlon and nephew Taj sat down with \"CBS This Morning\" co-host Gayle King on Wednesday to dispute the allegations raised in the film."
     },
     "Critics of the Documentary":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "The critical reaction to \"Leaving Neverland\" has been overwhelmingly positive, with the documentary garnering a Rotten Tomatoes score of 96 percent. NPR called the documentary \"a tribute to the power of personal testimony,\" and The New Yorker said it is a \"grueling and devastating film that asks viewers to reconfigure how they think about both Jackson and potential victims of rape.\""
     },
     "Taj Jackson's Poem":
     {
-        "country": "US",
-        "insignia": "MichaelJackson",
+        "country": "US", "insignia": "MichaelJackson",
         "memoir": "Bullying and name-calling are considered mean and not tolerated. Unless it's about Michael Jackson. Making up stories for profit is dishonest and journalists who do so are considered tabloid. Unless it's about Michael Jackson. A movie with as many lies as Leaving Neverland is not called a documentary. Unless it's about Michael Jackson. A rumour should be verified before reported and spread around the world. Unless it's about Michael Jackson. It's wrong to question someone's sexuality. Unless it's about Michael Jackson. You're innocent until proven guilty. Unless you're Michael Jackson. You can rest in peace once you die. Unless you're Michael Jackson."
     },
     "MK-ULTRA":
     {
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "Founded in 1953, MK-Ultra was seen by CIA director Allen W. Dulles as a way to study mind control, which he wanted to weaponise against the Soviet Union to gain a critical edge in the Cold War. With communism at its height, the CIA was disturbed by reports that American prisoners had been turned into communist allies, and believed this was evidence they had been manipulated or even hypnotised under questioning. The agency poured millions of dollars into studies examining ways to influence and control the mind and to enhance its ability to extract information from resistant subjects during interrogation. As part of this research, testing with psychedelic drugs such as LSD was common."
     },
     "Monarch Programming":
     {
-        "country": "US",
-        "insignia": "Mason",
+        "country": "US", "insignia": "Mason",
         "memoir": "This, the Illuminati mind-controlled celebrity conspiracy is ubiquitous and the symbolism of the occult, of pedophilia, and of the Illuminati is everywhere. Being subjected to Monarch programming and MK Ultra conditioning develops a form of schizophrenia in the victim, causing them to take on two distinct personalities. One personality is able to perform whatever degrading, self-deprecating behavior is necessary to pull off such ritualistic, ridiculous public performances. The other personality, the true and private self is subdued, eventually begging for help."
     },
     "Aurora Borealis":
     {
-        "country": "NO",
-        "insignia": "Compass",
+        "country": "NO", "insignia": "Compass",
         "memoir": "The northern lights, or the aurora borealis, are beautiful dancing ribbons of light that have captivated people for millennia. But for all its beauty, this spectacular light show is a rather violent event.",
         "language":
         {
@@ -245,8 +218,7 @@
     },
     "NASA Moon Landing":
     {
-        "country": "US",
-        "insignia": "Compass",
+        "country": "US", "insignia": "NASA",
         "memoir": "On July 20, 1969, an estimated 650 million people watched in suspense as Neil Armstrong descended a ladder towards the surface of the Moon. As he took his first steps, he uttered words that would be written into history books for generations to come: \"That's one small step for man. One giant leap for mankind.\"",
         "language":
         {
@@ -259,47 +231,38 @@
     },
     "Taj Mahal":
     {
-        "country": "IN",
-        "insignia": "Capitol",
+        "country": "IN", "insignia": "Capitol",
         "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
     },
     "Manarola":
     {
-        "country": "IT",
-        "insignia": "Squid",
+        "country": "IT", "insignia": "Squid",
         "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around."
     },
     "Santorini":
     {
-        "country": "GR",
-        "insignia": "Spartan",
+        "country": "GR", "insignia": "Spartan",
         "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades."
     },
     "Akihabara":
     {
-        "country": "JP",
-        "insignia": "Balloon",
+        "country": "JP", "insignia": "Huawei",
         "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district."
     },
     "Ardennes":
     {
-        "country": "BE",
-        "insignia": "Palace",
+        "country": "BE", "insignia": "Palace",
         "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate."
     },
     "Tuscany":
     {
-        "country": "IT",
-        "insignia": "Wine",
+        "country": "IT", "insignia": "Wine",
         "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\"."
     },
     "Megan Fox":
     {
-        "height": 1.63,
-        "weight": 52,
-        "shoe_size": 7,
-        "country": "US",
-        "nsfw": "true",
+        "height": 1.63, "weight": 52, "shoe_size": 7,
+        "country": "US", "nsfw": "true",
         "birthday": "May 16, 1986",
         "language":
         {
@@ -308,12 +271,9 @@
     },
     "Lily Allen":
     {
-        "height": 1.57,
-        "weight": 52,
-        "sizes": "92-64-89",
-        "shoe_size": 6,
-        "country": "GB",
-        "nsfw": "true",
+        "height": 1.57, "weight": 52,
+        "sizes": "92-64-89", "shoe_size": 6,
+        "country": "GB", "nsfw": "true",
         "birthday": "May 2, 1985",
         "language":
         {
@@ -322,12 +282,9 @@
     },
     "Britney Spears":
     {
-        "height": 1.63,
-        "weight": 57,
-        "sizes": "89-69-89",
-        "shoe_size": 7,
-        "country": "US",
-        "nsfw": "true",
+        "height": 1.63, "weight": 57,
+        "sizes": "89-69-89", "shoe_size": 7,
+        "country": "US", "nsfw": "true",
         "birthday": "December 2, 1981",
         "language":
         {

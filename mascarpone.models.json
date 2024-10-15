@@ -161,7 +161,15 @@
     "Central Park":
     {
         "country": "US", "insignia": "Liberty",
-        "memoir": "The creation of a large park in Manhattan was first proposed in the 1840s, and a 315 ha park approved in 1853. In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition for the park with their \"Greensward Plan\". Construction began in 1857; existing structures, including a majority-Black settlement named Seneca Village, were seized through eminent domain and razed. The park's first areas were opened to the public in late 1858. Additional land at the northern end of Central Park was purchased in 1859, and the park was completed in 1876. After a period of decline in the early 20th century, New York City parks commissioner Robert Moses started a program to clean up Central Park in the 1930s. The Central Park Conservancy, created in 1980 to combat further deterioration in the late 20th century, refurbished many parts of the park starting in the 1980s."
+        "memoir": "The creation of a large park in Manhattan was first proposed in the 1840s, and a 315 ha park approved in 1853. In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition for the park with their \"Greensward Plan\". Construction began in 1857; existing structures, including a majority-Black settlement named Seneca Village, were seized through eminent domain and razed. The park's first areas were opened to the public in late 1858. Additional land at the northern end of Central Park was purchased in 1859, and the park was completed in 1876. After a period of decline in the early 20th century, New York City parks commissioner Robert Moses started a program to clean up Central Park in the 1930s. The Central Park Conservancy, created in 1980 to combat further deterioration in the late 20th century, refurbished many parts of the park starting in the 1980s.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Центральный Парк",
+                "memoir": "Создание большого парка в Манхэттене было впервые предложено в 1840-х годах, а парк площадью 315 га был одобрен в 1853 году. В 1858 году ландшафтные архитекторы Фредерик Лоу Олмстед и Калверт Во выиграли конкурс проектов парка со своим «Планом зеленых насаждений». Строительство началось в 1857 году; существующие сооружения, включая преимущественно черное поселение под названием Сенека-Виллидж, были конфискованы через право принудительного отчуждения и снесены. Первые участки парка были открыты для публики в конце 1858 года. Дополнительная земля в северной части Центрального парка была куплена в 1859 году, и парк был завершен в 1876 году. После периода упадка в начале 20-го века комиссар парков Нью-Йорка Роберт Мозес начал программу по очистке Центрального парка в 1930-х годах. Организация Central Park Conservancy, созданная в 1980 году для борьбы с дальнейшим ухудшением состояния парка в конце XX века, отреставрировала многие части парка, начиная с 1980-х годов."
+            }
+        }
     },
     "Neverland Ranch":
     {
@@ -232,32 +240,80 @@
     "Taj Mahal":
     {
         "country": "IN", "insignia": "Capitol",
-        "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
+        "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Тадж-Махал",
+                "memoir": "Тадж-Махал — мавзолей из мрамора цвета слоновой кости на правом берегу реки Ямуна в Агре, Уттар-Прадеш, Индия. Он был заказан в 1631 году пятым императором Моголов Шах-Джаханом для размещения гробницы его любимой жены Мумтаз-Махал; в нем также находится гробница самого Шах-Джахана. Гробница является центральным элементом комплекса площадью 17 гектаров, который включает мечеть и гостевой дом и расположен в регулярных садах, ограниченных с трех сторон зубчатой ​​стеной."
+            }
+        }
     },
     "Manarola":
     {
         "country": "IT", "insignia": "Squid",
-        "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around."
+        "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Манарола",
+                "memoir": "Манарола, построенная на высокой скале в 70 метрах над уровнем моря, является одной из самых очаровательных и романтичных деревень Чинкве-Терре. В крошечной гавани есть лодочный спуск, крошечная площадь и живописные разноцветные дома с видом на море. Вы можете насладиться обедом в одном из рыбных ресторанов на небольшой площади рядом с гаванью. Район гавани заполнен красочными гребными лодками и становится главным местом для загара и купания в деревне с утра до заката. На самом деле, это идеальное место, чтобы провести ленивый день, загорая и наблюдая, как люди прыгают со скал. Хотя здесь нет настоящего пляжа, здесь есть одни из лучших мест для глубоководного плавания."
+            }
+        }
     },
     "Santorini":
     {
         "country": "GR", "insignia": "Spartan",
-        "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades."
+        "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Санторини",
+                "memoir": "Санторини, известный с древних времен как Тира, является одним из самых известных островов в мире. Тот факт, что вы можете сидеть перед кальдерой, наслаждаться местными блюдами, напитком или кофе, глядя на замечательную красоту действующего вулкана, бесценен! Остров на самом деле представляет собой группу островов, состоящую из Тиры, Тирасии, Аспронисси, Палеи и Неа Камени в самой южной части Киклад."
+            }
+        }
     },
     "Akihabara":
     {
         "country": "JP", "insignia": "Huawei",
-        "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district."
+        "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Акихабара",
+                "memoir": "Название Акихабара является сокращением от Акибагахара, которое происходит от Акиба, названного в честь божества, управляющего огнем, в пожарном храме, построенном после того, как район был уничтожен пожаром в 1869 году. Акихабара получила прозвище Akihabara Electric Town вскоре после Второй мировой войны за то, что она была крупным торговым центром бытовой электроники и послевоенного черного рынка. Многие считают Акихабару центром японской культуры отаку и крупным торговым районом для видеоигр, аниме, манги, электроники и компьютерных товаров. Символы популярных аниме и манги выставлены на видном месте на магазинах в этом районе, а многочисленные мейд-кафе и несколько игровых автоматов можно найти по всему району."
+            }
+        }
     },
     "Ardennes":
     {
         "country": "BE", "insignia": "Palace",
-        "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate."
+        "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate.",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Арденны",
+                "memoir": "Арденны простираются вглубь Германии и Франции (давая свое название департаменту Арденны и бывшему региону Шампань-Арденны) и геологически в Эйфель (восточное продолжение Арденнского леса в Битбург-Прюм, Германия); большая часть его находится на юго-востоке Валлонии, южной и более сельской части Бельгии (вдали от прибрежной равнины, но охватывающей более половины общей площади страны). Восточная часть Арденн образует самую северную треть Великого Герцогства Люксембург, также называемого «Эйслек». На юго-востоке регион Эйфель продолжается в немецкой земле Рейнланд-Пфальц."
+            }
+        }
     },
     "Tuscany":
     {
         "country": "IT", "insignia": "Wine",
-        "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\"."
+        "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\".",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Тоскана",
+                "memoir": "Тоскана известна своими ландшафтами, историей, художественным наследием и влиянием на высокую культуру. Она считается родиной итальянского Возрождения и основ итальянского языка. Престиж, созданный использованием тосканского диалекта в литературе Данте Алигьери, Петрарки, Джованни Боккаччо, Никколо Макиавелли и Франческо Гвиччардини, привел к его последующей разработке в качестве языка культуры по всей Италии. Она была домом для многих влиятельных деятелей в истории искусства и науки и содержит известные музеи, такие как Уффици и Палаццо Питти. Тоскана также известна своими винами, включая Кьянти, Вино Нобиле ди Монтепульчано, Мореллино ди Скансано, Брунелло ди Монтальчино и белое Верначча ди Сан Джиминьяно. Имея сильную языковую и культурную идентичность, ее иногда считают «нацией внутри нации»."
+            }
+        }
     },
     "Megan Fox":
     {

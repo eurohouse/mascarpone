@@ -27,6 +27,17 @@
             }
         }
     },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
     "Parisian Balcony":
     {
         "country": "FR", "insignia": "EiffelTower",

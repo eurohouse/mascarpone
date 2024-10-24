@@ -4,10 +4,8 @@
         "country": "GB", "insignia": "Mermaid",
         "maison": "https://www.mermaidinn.com",
         "memoir": "A medieval citadel huddled against invaders and the sea, Rye reveals its history gently. Today it’s home to a myriad of art, curiosities and cosy pubs, as well as modern boutique hotels and contemporary restaurants serving the best Sussex has to offer, from land and sea. Built on smuggled secrets and timeless tales, Rye has nooks and crannies to explore and distant views across Romney Marsh to ponder.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "memoir": "Средневековая цитадель, защищенная от захватчиков и моря, Рай мягко раскрывает свою историю. Сегодня здесь находится множество произведений искусства, диковинок и уютных пабов, а также современные бутик-отели и современные рестораны, предлагающие лучшее, что может предложить Сассекс, с суши и с моря. Построенный на контрабандных тайнах и вневременных историях, Рай имеет укромные уголки, которые можно исследовать, и далекие виды на Ромни-Марш, над которыми стоит задуматься."
             }
         }
@@ -18,10 +16,8 @@
         "country": "FR", "insignia": "Palace",
         "maison": "https://www.chateauversailles.fr",
         "memoir": "Visitors looking through the central window in the Hall of Mirrors will see the Grande Perspective stretching away towards the horizon from the Water Parterre. This unique east-west perspective originally dates from before the reign of Louis XIV, but it was developed and extended by the gardener André Le Nôtre, who widened the Royal Way and dug the Grand Canal.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Версальский дворец",
                 "memoir": "Посетители, глядя через центральное окно Зеркального зала, увидят Большую перспективу, уходящую к горизонту от Водного партера. Эта уникальная перспектива с востока на запад возникла еще до правления Людовика XIV, но она была развита и расширена садовником Андре Ле Нотром, который расширил Королевский путь и выкопал Большой канал."
             }
@@ -33,8 +29,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Одри Хепберн" }
         }
     },
@@ -42,10 +37,8 @@
     {
         "country": "FR", "insignia": "EiffelTower",
         "memoir": "Sometimes architecture is so much a part of the fabric of a city that it makes its way into our imagination without us even realizing it. We can hardly think of New York without that iconic skyline filled with gravity-defying skyscrapers, just as no image of London would be complete without a backdrop of terraced houses covered in English ivy. But perhaps no scene is as iconic as the great boulevards of Paris, lined with those romantic pale stone buildings ringed in wrought iron balconies.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Балконы Парижа",
                 "memoir": "Иногда архитектура настолько является частью городской структуры, что проникает в наше воображение, даже не осознавая этого. Мы вряд ли можем думать о Нью-Йорке без этого культового горизонта, наполненного небоскребами, бросающими вызов гравитации, точно так же, как ни один образ Лондона не был бы полным без фона домов с террасами, покрытых английским плющом. Но, пожалуй, ни одна сцена не является столь знаковой, как большие бульвары Парижа, вдоль которых выстроились романтические здания из светлого камня, окруженные балконами из кованого железа."
             }
@@ -55,10 +48,8 @@
     {
         "country": "BE", "insignia": "Amphora",
         "memoir": "The Thermes of Spa combine modern wellness with traditional hydrotherapy; peat baths, balneotherapy treatments, benefits conferred by drinking water, pleasures of water games, relaxation or fitness programs, beauty treatments.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Термальные источники Спа",
                 "memoir": "Термы Спа сочетают современный велнес с традиционной гидротерапией; торфяные ванны, бальнеотерапевтические процедуры, польза от питьевой воды, водные игры, программы релаксации или фитнеса, косметические процедуры."
             }
@@ -68,37 +59,38 @@
     {
         "country": "IT", "insignia": "Compass",
         "memoir": "It is of course all the charm and all the beauty of Venice. Water, mirrors not only our souls but also the palaces. Water not only embellishes, water is the source of life. All these multicolored images and generally gilded of the canals of Venice undeniably bring a unique visual dimension to the city. But beyond this romantic and artistic aspect of the canals of Venice are the historical and present day factors.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Каналы и реки Венеции",
                 "memoir": "В этом, конечно, все очарование и вся красота Венеции. Вода отражает не только наши души, но и дворцы. Вода не только украшает, вода является источником жизни. Все эти разноцветные изображения и позолоченные каналы Венеции, несомненно, придают городу уникальное визуальное измерение. Но за этим романтическим и художественным аспектом каналов Венеции стоят исторические и современные факторы."
             }
         }
     },
-    "French Girl":
+    "European Café Culture":
     {
-        "country": "FR", "insignia": "Lady", "language":
-        {
-            "RU": { "title": "Девушка из Франции" }
+        "country": "EU", "insignia": "Coffee",
+        "maison": "https://coffeeaffection.com/european-coffee-culture",
+        "memoir": "In comparison to how coffee is consumed in the United States, Europe still knows how to savor it. It is not a continent that takes kindly to pouring fresh brew into a Styrofoam or paper cup. For Europe, it is not merely about the product, that is the beverage. It’s about an experience. We will see that it is every bit as much about the coffee house itself as it is about how the coffee is brewed and consumed.",
+        "language": {
+            "RU": {
+                "title": "Кафе-культура Европы",
+                "memoir": "По сравнению с тем, как пьют кофе в Соединенных Штатах, Европа все еще знает, как его наслаждаться. Это не тот континент, который любезно наливает свежее пиво в пенопластовый или бумажный стаканчик. Для Европы речь идет не просто о продукте, а именно о напитке. Речь идет об опыте. Мы увидим, что дело не только в самой кофейне, но и в том, как кофе заваривается и потребляется."
+            }
         }
     },
-    "French Feet":
+    "Italian Feet":
     {
-        "country": "FR", "nsfw": "true", "language":
-        {
-            "RU": { "title": "Ноги француженки" }
+        "nsfw": "true", "country": "IT",
+        "language": {
+            "RU": { "title": "Ноги итальянки" }
         }
     },
     "Sunset in Paris":
     {
         "country": "FR", "insignia": "EiffelTower",
         "memoir": "Paris is a top destination for tourists from all over the world throughout the year. Known as the City of Light, the capital offers exceptional views at any time of the day. Nightfall is a unique moment when the flamboyant colours invite us to dream.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Закаты Парижа",
                 "memoir": "Париж – популярное направление для туристов со всего мира круглый год. Столица, известная как Город Света, предлагает исключительные виды в любое время суток. Сумерки — это уникальный момент, когда яркие цвета приглашают нас помечтать."
             }
@@ -108,10 +100,8 @@
     {
         "country": "AT", "insignia": "OrientExpress",
         "memoir": "Von Oberkärnten und Salzburg bis nach Vorarlberg erstreckt sich ein schroffes Hochgebirge, das beginnend mit den Hohen Tauern über die Zillertaler, Stubaier und Ötztaler Alpen bis zur Silvrettagruppe durchwegs über 3 000 m aufragt und lokal stark vergletschert ist (Pasterze, Gepatschferner). Breite Täler wie das Inn- und Drautal wurden während der eiszeitlichen Vergletscherung tief ausgeschürft. Pässe über dieses Hochgebirge sind Katschberg (1641 m), Brennerpass (1370 m) und Reschenpass (1507 m).",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Центрально-Восточные Альпы",
                 "memoir": "Изрезанная высокая горная цепь простирается от Верхней Каринтии и Зальцбурга до Форарльберга, начиная с Высокого Тауэрна, через Циллертальские, Штубайские и Эцтальские Альпы до группы Сильвретта, возвышаясь над 3000 м и местами покрытая льдом (Пастерце, Гепачфернер). Широкие долины, такие как долины Инн и Драут, были глубоко вырезаны во время оледенения ледникового периода. Перевалы через этот высокий горный массив — Качберг (1641 м), перевал Бреннер (1370 м) и перевал Решен (1507 м)."
             }
@@ -122,10 +112,8 @@
         "country": "CH", "insignia": "Louvre",
         "maison": "https://www.zermatt.ch/en/matterhorn",
         "memoir": "At 4,478 metres, the majestic Matterhorn, also called the \"jewel of the Swiss Alps\" and certainly the most famous mountain in Europe, looms over the breathtaking Alpine panorama. This Switzerland landmark is at the border of the western Swiss canton of Valais between Zermatt and the Italian resort of Breuil-Cervinia, and offers a paradise for all nature-lovers looking for peace and quiet.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Церматт Маттерхорн",
                 "memoir": "Над захватывающей альпийской панорамой нависает величественный Маттерхорн высотой 4478 метров, также называемый «жемчужиной Швейцарских Альп» и, безусловно, самой известной горой в Европе. Эта достопримечательность Швейцарии находится на границе западного швейцарского кантона Вале между Церматтом и итальянским курортом Брей-Червиния и предлагает рай для всех любителей природы, ищущих тишины и покоя."
             }
@@ -135,10 +123,8 @@
     {
         "country": "FR", "insignia": "Palace",
         "memoir": "Inaugurated on the occasion of the 1900 Universal Exhibition and classed as a historic monument, the Pont Alexandre III is one of the most emblematic bridges in Paris because of its architecture and location.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Мост Александра III",
                 "memoir": "Мост Александра III, открытый по случаю Всемирной выставки 1900 года и классифицированный как исторический памятник, является одним из самых символичных мостов Парижа благодаря своей архитектуре и расположению."
             }
@@ -173,10 +159,8 @@
     {
         "country": "US", "insignia": "Liberty",
         "memoir": "The creation of a large park in Manhattan was first proposed in the 1840s, and a 315 ha park approved in 1853. In 1858, landscape architects Frederick Law Olmsted and Calvert Vaux won a design competition for the park with their \"Greensward Plan\". Construction began in 1857; existing structures, including a majority-Black settlement named Seneca Village, were seized through eminent domain and razed. The park's first areas were opened to the public in late 1858. Additional land at the northern end of Central Park was purchased in 1859, and the park was completed in 1876. After a period of decline in the early 20th century, New York City parks commissioner Robert Moses started a program to clean up Central Park in the 1930s. The Central Park Conservancy, created in 1980 to combat further deterioration in the late 20th century, refurbished many parts of the park starting in the 1980s.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Центральный Парк",
                 "memoir": "Создание большого парка в Манхэттене было впервые предложено в 1840-х годах, а парк площадью 315 га был одобрен в 1853 году. В 1858 году ландшафтные архитекторы Фредерик Лоу Олмстед и Калверт Во выиграли конкурс проектов парка со своим «Планом зеленых насаждений». Строительство началось в 1857 году; существующие сооружения, включая преимущественно черное поселение под названием Сенека-Виллидж, были конфискованы через право принудительного отчуждения и снесены. Первые участки парка были открыты для публики в конце 1858 года. Дополнительная земля в северной части Центрального парка была куплена в 1859 году, и парк был завершен в 1876 году. После периода упадка в начале 20-го века комиссар парков Нью-Йорка Роберт Мозес начал программу по очистке Центрального парка в 1930-х годах. Организация Central Park Conservancy, созданная в 1980 году для борьбы с дальнейшим ухудшением состояния парка в конце XX века, отреставрировала многие части парка, начиная с 1980-х годов."
             }
@@ -226,10 +210,8 @@
     {
         "country": "NO", "insignia": "Compass",
         "memoir": "The northern lights, or the aurora borealis, are beautiful dancing ribbons of light that have captivated people for millennia. But for all its beauty, this spectacular light show is a rather violent event.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Северное Сияние",
                 "memoir": "Северное сияние, или северное сияние, представляет собой красивые танцующие ленты света, которые пленяли людей на протяжении тысячелетий. Но при всей своей красоте это зрелищное световое шоу является довольно жестоким событием."
             }
@@ -239,10 +221,8 @@
     {
         "country": "US", "insignia": "NASA",
         "memoir": "On July 20, 1969, an estimated 650 million people watched in suspense as Neil Armstrong descended a ladder towards the surface of the Moon. As he took his first steps, he uttered words that would be written into history books for generations to come: \"That's one small step for man. One giant leap for mankind.\"",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "NASA Высадка на луну",
                 "memoir": "20 июля 1969 года около 650 миллионов человек с нетерпением наблюдали, как Нил Армстронг спускался по лестнице к поверхности Луны. Делая свои первые шаги, он произнес слова, которые будут записаны в учебники истории для будущих поколений: \"Это один маленький шаг для человека. Гигантский скачок для человечества.\""
             }
@@ -252,10 +232,8 @@
     {
         "country": "IN", "insignia": "Capitol",
         "memoir": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Тадж-Махал",
                 "memoir": "Тадж-Махал — мавзолей из мрамора цвета слоновой кости на правом берегу реки Ямуна в Агре, Уттар-Прадеш, Индия. Он был заказан в 1631 году пятым императором Моголов Шах-Джаханом для размещения гробницы его любимой жены Мумтаз-Махал; в нем также находится гробница самого Шах-Джахана. Гробница является центральным элементом комплекса площадью 17 гектаров, который включает мечеть и гостевой дом и расположен в регулярных садах, ограниченных с трех сторон зубчатой ​​стеной."
             }
@@ -265,10 +243,8 @@
     {
         "country": "IT", "insignia": "Squid",
         "memoir": "Manarola, built on a high rock 70 metres above sea level, is one of the most charming and romantic of the Cinque Terre villages. The tiny harbor features a boat ramp, a tiny piazza and picturesque multicoloured houses facing the sea. You can enjoy lunch at one of the fish restaurants in the small square next to the harbour. The harbor area is filled with colorful rowing boats and becomes the main sunbathing and swimming spot of the village from morning until dusk. In fact, this is the perfect place to spend a lazy day sunbathing and watching people jumping off the cliffs. Although there is no real beach here, it has some of the best deep-water swimming around.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Манарола",
                 "memoir": "Манарола, построенная на высокой скале в 70 метрах над уровнем моря, является одной из самых очаровательных и романтичных деревень Чинкве-Терре. В крошечной гавани есть лодочный спуск, крошечная площадь и живописные разноцветные дома с видом на море. Вы можете насладиться обедом в одном из рыбных ресторанов на небольшой площади рядом с гаванью. Район гавани заполнен красочными гребными лодками и становится главным местом для загара и купания в деревне с утра до заката. На самом деле, это идеальное место, чтобы провести ленивый день, загорая и наблюдая, как люди прыгают со скал. Хотя здесь нет настоящего пляжа, здесь есть одни из лучших мест для глубоководного плавания."
             }
@@ -278,10 +254,8 @@
     {
         "country": "GR", "insignia": "Spartan",
         "memoir": "Santorini, known since ancient times as Thira, is one of the most famous islands in the world. The fact that you can sit in front of the caldera, enjoy local dishes, a drink or a coffee while gazing at the remarkable beauty of an active volcano is priceless! The island is actually a group of islands consisting of Thira, Thirassia, Aspronissi, Palea and Nea Kameni in the southernmost part of the Cyclades.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Санторини",
                 "memoir": "Санторини, известный с древних времен как Тира, является одним из самых известных островов в мире. Тот факт, что вы можете сидеть перед кальдерой, наслаждаться местными блюдами, напитком или кофе, глядя на замечательную красоту действующего вулкана, бесценен! Остров на самом деле представляет собой группу островов, состоящую из Тиры, Тирасии, Аспронисси, Палеи и Неа Камени в самой южной части Киклад."
             }
@@ -291,10 +265,8 @@
     {
         "country": "JP", "insignia": "Huawei",
         "memoir": "The name Akihabara is a shortening of Akibagahara, which comes from Akiba, named after a fire-controlling deity of a firefighting shrine built after the area was destroyed by a fire in 1869. Akihabara gained the nickname Akihabara Electric Town shortly after World War II for being a major shopping center for household electronic goods and the post-war black market. Akihabara is considered by many to be the centre of Japanese otaku culture, and is a major shopping district for video games, anime, manga, electronics and computer-related goods. Icons from popular anime and manga are displayed prominently on the shops in the area, and numerous maid cafés and some arcades are found throughout the district.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Акихабара",
                 "memoir": "Название Акихабара является сокращением от Акибагахара, которое происходит от Акиба, названного в честь божества, управляющего огнем, в пожарном храме, построенном после того, как район был уничтожен пожаром в 1869 году. Акихабара получила прозвище Akihabara Electric Town вскоре после Второй мировой войны за то, что она была крупным торговым центром бытовой электроники и послевоенного черного рынка. Многие считают Акихабару центром японской культуры отаку и крупным торговым районом для видеоигр, аниме, манги, электроники и компьютерных товаров. Символы популярных аниме и манги выставлены на видном месте на магазинах в этом районе, а многочисленные мейд-кафе и несколько игровых автоматов можно найти по всему району."
             }
@@ -304,10 +276,8 @@
     {
         "country": "BE", "insignia": "Palace",
         "memoir": "The Ardennes proper stretches well into Germany and France (lending its name to the Ardennes department and the former Champagne-Ardenne region) and geologically into the Eifel (the eastern extension of the Ardennes Forest into Bitburg-Prüm, Germany); most of it is in the southeast of Wallonia, the southern and more rural part of Belgium (away from the coastal plain but encompassing more than half of the country's total area). The eastern part of the Ardennes forms the northernmost third of the Grand Duchy of Luxembourg, also called \"Éislek\". On the southeast the Eifel region continues into the German state of the Rhineland-Palatinate.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Арденны",
                 "memoir": "Арденны простираются вглубь Германии и Франции (давая свое название департаменту Арденны и бывшему региону Шампань-Арденны) и геологически в Эйфель (восточное продолжение Арденнского леса в Битбург-Прюм, Германия); большая часть его находится на юго-востоке Валлонии, южной и более сельской части Бельгии (вдали от прибрежной равнины, но охватывающей более половины общей площади страны). Восточная часть Арденн образует самую северную треть Великого Герцогства Люксембург, также называемого «Эйслек». На юго-востоке регион Эйфель продолжается в немецкой земле Рейнланд-Пфальц."
             }
@@ -317,10 +287,8 @@
     {
         "country": "IT", "insignia": "Wine",
         "memoir": "Tuscany is known for its landscapes, history, artistic legacy, and its influence on high culture. It is regarded as the birthplace of the Italian Renaissance and of the foundations of the Italian language. The prestige established by the Tuscan dialect's use in literature by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini led to its subsequent elaboration as the language of culture throughout Italy. It has been home to many figures influential in the history of art and science, and contains well-known museums such as the Uffizi and the Palazzo Pitti. Tuscany is also known for its wines, including Chianti, Vino Nobile di Montepulciano, Morellino di Scansano, Brunello di Montalcino and white Vernaccia di San Gimignano. Having a strong linguistic and cultural identity, it is sometimes considered \"a nation within a nation\".",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Тоскана",
                 "memoir": "Тоскана известна своими ландшафтами, историей, художественным наследием и влиянием на высокую культуру. Она считается родиной итальянского Возрождения и основ итальянского языка. Престиж, созданный использованием тосканского диалекта в литературе Данте Алигьери, Петрарки, Джованни Боккаччо, Никколо Макиавелли и Франческо Гвиччардини, привел к его последующей разработке в качестве языка культуры по всей Италии. Она была домом для многих влиятельных деятелей в истории искусства и науки и содержит известные музеи, такие как Уффици и Палаццо Питти. Тоскана также известна своими винами, включая Кьянти, Вино Нобиле ди Монтепульчано, Мореллино ди Скансано, Брунелло ди Монтальчино и белое Верначча ди Сан Джиминьяно. Имея сильную языковую и культурную идентичность, ее иногда считают «нацией внутри нации»."
             }
@@ -331,8 +299,7 @@
         "height": 1.63, "weight": 52, "shoe_size": 7,
         "country": "US", "nsfw": "true",
         "birthday": "May 16, 1986",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Меган Фокс" }
         }
     },
@@ -342,8 +309,7 @@
         "sizes": "92-64-89", "shoe_size": 6,
         "country": "GB", "nsfw": "true",
         "birthday": "May 2, 1985",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Лили Аллен" }
         }
     },
@@ -353,8 +319,7 @@
         "sizes": "89-69-89", "shoe_size": 7,
         "country": "US", "nsfw": "true",
         "birthday": "December 2, 1981",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Бритни Спирс" }
         }
     },
@@ -364,8 +329,7 @@
         "sizes": "81-61-87", "nsfw": "true",
         "shoe_size": 8.5, "country": "GB",
         "birthday": "August 12, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Кара Делевинь" }
         }
     },
@@ -373,8 +337,7 @@
     {
         "nsfw": "true", "country": "US",
         "birthday": "February 27, 2023",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Ванесса Вилаферте" }
         }
     },
@@ -384,8 +347,7 @@
         "sizes": "94-66-91", "nsfw": "true",
         "shoe_size": 7.5, "country": "BE",
         "birthday": "October 26, 1994",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Роза Бертрам" }
         }
     },
@@ -395,8 +357,7 @@
         "sizes": "85-59-89", "nsfw": "true",
         "shoe_size": 8, "country": "HU",
         "birthday": "October 8, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Барбара Палвин" }
         }
     },
@@ -406,8 +367,7 @@
         "sizes": "91-58-94", "nsfw": "true",
         "shoe_size": 8, "country": "FR",
         "birthday": "April 26, 1941",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Клодин Оже" }
         }
     },
@@ -417,8 +377,7 @@
         "sizes": "84-63-86", "nsfw": "true",
         "shoe_size": 9, "country": "IT",
         "birthday": "January 29, 1988",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Рафаэлла Фико" }
         }
     },
@@ -428,8 +387,7 @@
         "sizes": "81-64-89", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "May 8, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Оливия Калпо" }
         }
     },
@@ -439,8 +397,7 @@
         "sizes": "89-66-99", "nsfw": "true",
         "shoe_size": 8.5, "country": "US",
         "birthday": "September 4, 1981",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Бейонсе" }
         }
     },
@@ -450,8 +407,7 @@
         "sizes": "86-59-86", "nsfw": "true",
         "shoe_size": 8.5, "country": "AU",
         "birthday": "July 2, 1990",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Марго Робби" }
         }
     },
@@ -461,8 +417,7 @@
         "sizes": "87-61-86", "nsfw": "true",
         "shoe_size": 7.5, "country": "IT",
         "birthday": "June 28, 1984",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Тамара Экклестон" }
         }
     },
@@ -472,8 +427,7 @@
         "sizes": "97-64-97", "nsfw": "true",
         "shoe_size": 6.5, "country": "US",
         "birthday": "February 21, 1979",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Дженнифер Лав Хьюитт" }
         }
     },
@@ -484,8 +438,7 @@
         "sizes": "86-63-76", "nsfw": "true",
         "shoe_size": 8, "country": "US",
         "birthday": "December 8, 1982",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Крисет Мишель" }
         }
     },
@@ -495,8 +448,7 @@
         "sizes": "86-64-87", "nsfw": "true",
         "shoe_size": 10, "country": "BR",
         "birthday": "April 11, 1981",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Алессандра Амброзио" }
         }
     }

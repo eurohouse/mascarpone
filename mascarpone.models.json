@@ -26,6 +26,16 @@
             "RU": { "title": "Лили Аллен" }
         }
     },
+    "Pixie Lott":
+    {
+        "height": 1.73, "weight": 57,
+        "sizes": "34-25-36", "shoe_size": 9,
+        "country": "GB", "nsfw": "true",
+        "birthday": "January 12, 1991",
+        "language": {
+            "RU": { "title": "Пикси Лотт" }
+        }
+    },
     "Britney Spears":
     {
         "height": 1.63, "weight": 57,

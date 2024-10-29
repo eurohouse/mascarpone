@@ -184,6 +184,28 @@
             "RU": { "title": "Марго Робби" }
         }
     },
+    "The League of Nations":
+    {
+        "country": "UN", "insignia": "Palace",
+        "maison": "https://www.ungeneva.org/en/about/league-of-nations/overview",
+        "memoir": "The League of Nations (1920 - 1946) was the first intergovernmental organization established “to promote international cooperation and to achieve international peace and security”. It is often referred to as the “predecessor” of the United Nations. Its founding document - the Covenant of the League of Nations – was drafted during the peace negotiations at the end of the First World War. It was composed of 26 articles, and covered many aspects of the organization, such as the conditions for membership, the functions of the principal organs, the mechanisms for a peaceful settlement of international disputes, and the obligations of the Member States. The Covenant also contained the main principles on which the League was built.",
+        "language": {
+            "RU": {
+                "memoir": "Лига Наций (1920 - 1946) была первой межправительственной организацией, созданной «для содействия международному сотрудничеству и достижения международного мира и безопасности». Ее часто называют «предшественником» Организации Объединенных Наций. Ее учредительный документ — Устав Лиги Наций — был разработан во время мирных переговоров в конце Первой мировой войны. Он состоял из 26 статей и охватывал многие аспекты организации, такие как условия членства, функции главных органов, механизмы мирного урегулирования международных споров и обязательства государств-членов. Устав также содержал основные принципы, на которых была построена Лига."
+            }
+        }
+    },
+    "Federal Reserve System":
+    {
+        "country": "US", "insignia": "Palace",
+        "maison": "https://www.federalreserve.gov/",
+        "memoir": "Multilateral economic cooperation among countries was crucial for the post-war world economies. Countries sought to establish an international monetary and financial system that fostered collaboration and growth among the participating countries. They wanted to avoid the complications, faced during the interwar period, due to leaving the gold standard, the great depression, and trade wars that spread the depression globally. There would be a need for an entity that fostered equilibrium in exchange rates and prevented competitive devaluations while ensuring domestic policy autonomy for high employment and real income.",
+        "language": {
+            "RU": {
+                "memoir": "Многостороннее экономическое сотрудничество между странами имело решающее значение для послевоенной мировой экономики. Страны стремились создать международную валютную и финансовую систему, которая способствовала бы сотрудничеству и росту среди стран-участниц. Они хотели избежать осложнений, с которыми столкнулись в межвоенный период из-за отказа от золотого стандарта, Великой депрессии и торговых войн, которые распространили депрессию по всему миру. Возникла бы необходимость в образовании, которое способствовало бы равновесию обменных курсов и предотвращало бы конкурентные девальвации, обеспечивая при этом внутреннюю независимость политики для высокой занятости и реального дохода."
+            }
+        }
+    },
     "Mermaid Inn":
     {
         "country": "GB", "insignia": "Mermaid",

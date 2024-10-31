@@ -191,6 +191,7 @@
         "memoir": "The League of Nations (1920 - 1946) was the first intergovernmental organization established “to promote international cooperation and to achieve international peace and security”. It is often referred to as the “predecessor” of the United Nations. Its founding document - the Covenant of the League of Nations – was drafted during the peace negotiations at the end of the First World War. It was composed of 26 articles, and covered many aspects of the organization, such as the conditions for membership, the functions of the principal organs, the mechanisms for a peaceful settlement of international disputes, and the obligations of the Member States. The Covenant also contained the main principles on which the League was built.",
         "language": {
             "RU": {
+                "title": "Лига Наций",
                 "memoir": "Лига Наций (1920 - 1946) была первой межправительственной организацией, созданной «для содействия международному сотрудничеству и достижения международного мира и безопасности». Ее часто называют «предшественником» Организации Объединенных Наций. Ее учредительный документ — Устав Лиги Наций — был разработан во время мирных переговоров в конце Первой мировой войны. Он состоял из 26 статей и охватывал многие аспекты организации, такие как условия членства, функции главных органов, механизмы мирного урегулирования международных споров и обязательства государств-членов. Устав также содержал основные принципы, на которых была построена Лига."
             }
         }
@@ -198,11 +199,24 @@
     "Federal Reserve System":
     {
         "country": "US", "insignia": "Palace",
-        "maison": "https://www.federalreserve.gov/",
+        "maison": "https://www.federalreserve.gov",
         "memoir": "Multilateral economic cooperation among countries was crucial for the post-war world economies. Countries sought to establish an international monetary and financial system that fostered collaboration and growth among the participating countries. They wanted to avoid the complications, faced during the interwar period, due to leaving the gold standard, the great depression, and trade wars that spread the depression globally. There would be a need for an entity that fostered equilibrium in exchange rates and prevented competitive devaluations while ensuring domestic policy autonomy for high employment and real income.",
         "language": {
             "RU": {
+                "title": "Федеральная резервная система",
                 "memoir": "Многостороннее экономическое сотрудничество между странами имело решающее значение для послевоенной мировой экономики. Страны стремились создать международную валютную и финансовую систему, которая способствовала бы сотрудничеству и росту среди стран-участниц. Они хотели избежать осложнений, с которыми столкнулись в межвоенный период из-за отказа от золотого стандарта, Великой депрессии и торговых войн, которые распространили депрессию по всему миру. Возникла бы необходимость в образовании, которое способствовало бы равновесию обменных курсов и предотвращало бы конкурентные девальвации, обеспечивая при этом внутреннюю независимость политики для высокой занятости и реального дохода."
+            }
+        }
+    },
+    "Waddesdon Manor":
+    {
+        "country": "GB", "insignia": "Palace",
+        "maison": "https://waddesdon.org.uk",
+        "memoir": "Baron Ferdinand de Rothschild wanted an estate where he could escape London in the summer months to entertain family and friends for weekend house parties. The Vale of Aylesbury was already known as 'Rothschildshire' for the number of the houses owned by the family in the area. When he came into his inheritance in 1874 he purchased a bare agricultural estate with a misshapen cone at its centre. The foundation stone was laid in 1877 and six years later the land had been transformed into a beautiful landscape by planting mature trees, bringing in the water supply from Aylesbury and removing 30 feet of soil to create the impressive approach to the house.",
+        "language": {
+            "RU": {
+                "title": "Поместье Уоддесдон",
+                "memoir": "Барон Фердинанд де Ротшильд хотел поместье, куда он мог бы сбежать из Лондона в летние месяцы, чтобы развлекать семью и друзей на домашних вечеринках по выходным. Долина Эйлсбери уже была известна как «Ротшильдшир» из-за количества домов, принадлежащих семье в этом районе. Когда он получил свое наследство в 1874 году, он купил пустое сельскохозяйственное поместье с деформированным конусом в центре. Первый камень был заложен в 1877 году, и шесть лет спустя земля была преобразована в прекрасный ландшафт путем посадки взрослых деревьев, проведения водоснабжения из Эйлсбери и удаления 30 футов почвы для создания впечатляющего подхода к дому."
             }
         }
     },

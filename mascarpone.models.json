@@ -36,6 +36,16 @@
             "RU": { "title": "Пикси Лотт" }
         }
     },
+    "Sandra Bullock":
+    {
+        "height": 1.71, "weight": 54,
+        "sizes": "87-61-87", "shoe_size": 10,
+        "country": "US", "nsfw": "true",
+        "birthday": "July 26, 1964",
+        "language": {
+            "RU": { "title": "Сандра Баллок" }
+        }
+    },
     "Britney Spears":
     {
         "height": 1.63, "weight": 57,

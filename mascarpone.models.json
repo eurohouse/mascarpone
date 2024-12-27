@@ -19,11 +19,20 @@
     },
     "Pixie Lott": {
         "height": 1.73, "weight": 57,
-        "sizes": "34-25-36", "shoe_size": 9,
+        "sizes": "87-64-92", "shoe_size": 9,
         "country": "GB", "nsfw": "true",
         "birthday": "January 12, 1991",
         "language": {
             "RU": { "title": "Пикси Лотт" }
+        }
+    },
+    "Rihanna": {
+        "height": 1.73, "weight": 60,
+        "sizes": "87-61-92", "shoe_size": 10,
+        "country": "BB", "nsfw": "true",
+        "birthday": "February 20, 1988",
+        "language": {
+            "RU": { "title": "Рианна" }
         }
     },
     "Angelina Jolie": {

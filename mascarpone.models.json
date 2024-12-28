@@ -26,6 +26,14 @@
             "RU": { "title": "Пикси Лотт" }
         }
     },
+    "Christa Rigozzi": {
+        "height": 1.69, "weight": 58, "shoe_size": 12.5,
+        "country": "CH", "nsfw": "true",
+        "birthday": "May 2, 1983",
+        "language": {
+            "RU": { "title": "Криста Ригоцци" }
+        }
+    },
     "Rihanna": {
         "height": 1.73, "weight": 60,
         "sizes": "87-61-92", "shoe_size": 10,

@@ -17,6 +17,14 @@
             }
         }
     },
+    "Valeriya Ivleva": {
+        "height": 1.7, "weight": 53,
+        "sizes": "92-65-90", "nsfw": "true",
+        "country": "RU", "birthday": "August 17, 1992",
+        "language": {
+            "RU": { "title": "Валерия Ивлева" }
+        }
+    },
     "Cardi B": {
         "height": 1.68, "weight": 62,
         "sizes": "99-69-91", "nsfw": "true",

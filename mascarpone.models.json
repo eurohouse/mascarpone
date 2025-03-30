@@ -115,6 +115,15 @@
             "RU": { "title": "Анджелина Джоли" }
         }
     },
+    "Elizabeth Hurley": {
+        "height": 1.73, "weight": 61,
+        "sizes": "97-66-86", "nsfw": "true",
+        "shoe_size": 8.5, "country": "US",
+        "birthday": "June 10, 1965",
+        "language": {
+            "RU": { "title": "Элизабет Хёрли" }
+        }
+    },
     "Britney Spears": {
         "height": 1.63, "weight": 57,
         "sizes": "89-69-89", "shoe_size": 7,

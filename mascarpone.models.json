@@ -97,6 +97,15 @@
             "RU": { "title": "Сидни Суини" }
         }
     },
+    "Rosie Huntington-Whiteley": {
+        "height": 1.75, "weight": 54,
+        "sizes": "86-63-89", "nsfw": "true",
+        "shoe_size": 9, "country": "GB",
+        "birthday": "April 18, 1987",
+        "language": {
+            "RU": { "title": "Роузи Хантингтон-Уайтли" }
+        }
+    },
     "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",

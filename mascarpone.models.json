@@ -124,15 +124,6 @@
             "RU": { "title": "Зендая Коулман" }
         }
     },
-    "Scarlett Johansson": {
-        "height": 1.6, "weight": 57,
-        "sizes": "92-64-92", "nsfw": "true",
-        "shoe_size": 8.5, "country": "US",
-        "birthday": "November 22, 1984",
-        "language": {
-            "RU": { "title": "Скарлетт Йоханссон" }
-        }
-    },
     "Lily Allen": {
         "height": 1.57, "weight": 52,
         "sizes": "92-64-89", "shoe_size": 6,
@@ -149,14 +140,6 @@
         "birthday": "January 12, 1991",
         "language": {
             "RU": { "title": "Пикси Лотт" }
-        }
-    },
-    "Christa Rigozzi": {
-        "height": 1.69, "weight": 58, "shoe_size": 12.5,
-        "country": "CH", "nsfw": "true",
-        "birthday": "May 2, 1983",
-        "language": {
-            "RU": { "title": "Криста Ригоцци" }
         }
     },
     "Rihanna": {
@@ -194,15 +177,6 @@
         "birthday": "December 2, 1981",
         "language": {
             "RU": { "title": "Бритни Спирс" }
-        }
-    },
-    "Sandra Bullock": {
-        "height": 1.71, "weight": 54,
-        "sizes": "87-61-87", "shoe_size": 10,
-        "country": "US", "nsfw": "true",
-        "birthday": "July 26, 1964",
-        "language": {
-            "RU": { "title": "Сандра Баллок" }
         }
     },
     "Megan Fox": {

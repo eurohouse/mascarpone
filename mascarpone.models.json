@@ -71,6 +71,15 @@
             }
         }
     },
+    "INNA": {
+        "height": 1.55, "weight": 47,
+        "sizes": "84-61-86", "nsfw": "true",
+        "shoe_size": 4, "country": "RO",
+        "birthday": "October 16, 1986",
+        "language": {
+            "RU": { "title": "ИННА" }
+        }
+    },
     "Valeriya Ivleva": {
         "height": 1.7, "weight": 53,
         "sizes": "92-65-90", "nsfw": "true",

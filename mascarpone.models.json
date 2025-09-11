@@ -101,6 +101,15 @@
             "RU": { "title": "Карди Би" }
         }
     },
+    "Kate Beckinsale": {
+        "height": 1.7, "weight": 54,
+        "sizes": "87-59-87", "nsfw": "true",
+        "shoe_size": 10, "country": "GB",
+        "birthday": "July 26, 1973",
+        "language": {
+            "RU": { "title": "Кейт Бекинсейл" }
+        }
+    },
     "Sydney Sweeney": {
         "height": 1.61, "weight": 56,
         "sizes": "91-63-91", "nsfw": "true",

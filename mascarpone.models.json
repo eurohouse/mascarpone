@@ -434,6 +434,20 @@
         "title": "Claudine Auger",
         "weight": 61
     },
+    "Dominique Swain": {
+        "birthday": "August 12, 1980",
+        "country": "US",
+        "height": 1.75,
+        "language": {
+            "RU": {
+                "title": "Доминик Суэйн"
+            }
+        },
+        "shoe_size": 8.5,
+        "sizes": "76-58-84",
+        "title": "Dominique Swain",
+        "weight": 64
+    },
     "Dutch Colonial Empire": {
         "avatar": "AustroHungary",
         "country": "NL",

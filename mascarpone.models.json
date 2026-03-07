@@ -90,6 +90,20 @@
         "title": "Alessandra Ambrosio",
         "weight": 54
     },
+    "Alexandra Stan": {
+        "birthday": "June 10, 1989",
+        "country": "RO",
+        "height": 1.68,
+        "language": {
+            "RU": {
+                "title": "Александра Стан"
+            }
+        },
+        "shoe_size": 8,
+        "sizes": "86-61-89",
+        "title": "Alexandra Stan",
+        "weight": 57
+    },
     "Angelina Jolie": {
         "birthday": "June 4, 1975",
         "country": "US",
